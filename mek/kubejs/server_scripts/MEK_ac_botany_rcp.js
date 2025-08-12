@@ -23,11 +23,11 @@ onEvent('recipes', event => {
   ]);
   event.shapeless('botanypotstiers:ultra_blue_botany_pot', [
     'botanypotstiers:elite_brown_botany_pot',
-    'kubejs:apricore4'
+    'kubejs:apricore3'
   ]);
     event.shapeless('botanypotstiers:creative_pink_botany_pot', [
     'botanypotstiers:ultra_blue_botany_pot',
-    'kubejs:apricore6'
+    'kubejs:apricore5'
     ]);
   event.shapeless('botanypotstiers:elite_hopper_white_botany_pot', [
   '#botanypots:hopper_botany_pots',
@@ -35,11 +35,11 @@ onEvent('recipes', event => {
   ]);
   event.shapeless('botanypotstiers:ultra_hopper_light_blue_botany_pot', [
   'botanypotstiers:elite_hopper_white_botany_pot',
-  'kubejs:apricore4'
+  'kubejs:apricore3'
   ]);
   event.shapeless('botanypotstiers:creative_hopper_purple_botany_pot', [
   'botanypotstiers:ultra_hopper_light_blue_botany_pot',
-  'kubejs:apricore6'
+  'kubejs:apricore5'
   ]);
   event.shapeless('minecraft:hopper', [
   'minecraft:chest',
