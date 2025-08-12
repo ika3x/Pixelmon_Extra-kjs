@@ -1,0 +1,18 @@
+{
+  "heal_success": {
+    "category": "player",
+    "subtitle": "Pokemon healed",
+    "sounds": [
+      {
+        "name": "kubejs:heal_success",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "heal_cooldown": {
+    "category": "player", 
+    "subtitle": "Item on cooldown",
+    "sounds": ["kubejs:heal_cooldown"]
+  }
+}

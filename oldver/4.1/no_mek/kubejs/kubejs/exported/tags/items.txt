@@ -1,0 +1,6613 @@
+To refresh this file, delete it and run /reload command again! Last updated: Aug 1, 2025 5:03:18 PM
+
+#mekanism:dirty_dusts/platinum
+- moremekanismprocessing:dirty_dust_platinum?
+
+#forge:plates
+- pixelmon:aluminium_plate
+- create:copper_sheet
+- create:brass_sheet
+- create:iron_sheet
+- create:golden_sheet
+- createaddition:zinc_sheet
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#mekanism:alloys/basic
+- minecraft:redstone
+
+#refinedstorage:grid
+- refinedstorage:pink_grid
+- refinedstorage:gray_grid
+- refinedstorage:orange_grid
+- refinedstorage:cyan_grid
+- refinedstorage:magenta_grid
+- refinedstorage:grid
+- refinedstorage:light_gray_grid
+- refinedstorage:brown_grid
+- refinedstorage:black_grid
+- refinedstorage:white_grid
+- refinedstorage:lime_grid
+- refinedstorage:purple_grid
+- refinedstorage:red_grid
+- refinedstorage:green_grid
+- refinedstorage:blue_grid
+- refinedstorage:yellow_grid
+
+#forge:alloys
+- #forge:alloys/advanced
+- #forge:alloys/elite
+- #forge:alloys/ultimate
+
+#forge:wires/gold
+- createaddition:gold_wire
+
+#forge:ingots/refined_obsidian
+- mekanism:ingot_refined_obsidian
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#refinedstorage:parts/items/256k
+- extradisks:256k_storage_part
+- extrastorage:storagepart_256k
+
+#forge:circuits/elite
+- mekanism:elite_control_circuit
+
+#forge:ingots/silver
+- moremekanismprocessing:silver_ingot?
+- pixelmon:silver_ingot
+
+#forge:ingots/platinum
+- moremekanismprocessing:platinum_ingot?
+- pixelmon:platinum_ingot
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#forge:beacon_payment
+- #create:create_ingots
+
+#byg:maple_logs
+- byg:maple_log
+- byg:stripped_maple_log
+- byg:maple_wood
+- byg:stripped_maple_wood
+
+#mekanism:colorable/terracotta
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#fabric:axes
+- byg:pendorite_axe
+- byg:pendorite_battleaxe
+
+#forge:storage_blocks/ametrine
+- byg:ametrine_block
+
+#forge:dusts/peridot
+- moremekanismprocessing:dust_peridot?
+
+#pixelmon:berries/natural_gift/water
+- pixelmon:chesto_berry
+- pixelmon:nanab_berry
+- pixelmon:durin_berry
+- pixelmon:passho_berry
+
+#mekanism:dirty_dusts/azure_silver
+- moremekanismprocessing:dirty_dust_azure_silver?
+
+#mekanism:clumps/draconium
+- moremekanismprocessing:clump_draconium?
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+- byg:cryptic_redstone_ore
+
+#forge:storage_blocks/uranium
+- mekanism:block_uranium
+
+#mekanism:clumps/peridot
+- moremekanismprocessing:clump_peridot?
+
+#forge:ores/crimson_iron
+
+#forge:gems/bort
+- moremekanismprocessing:gem_bort?
+
+#forge:dusts/lapis
+- mekanism:dust_lapis_lazuli
+- mekanism:dust_lapis_lazuli?
+
+#pixelmon:berries/e_reader
+- pixelmon:drash_berry
+- pixelmon:eggant_berry
+- pixelmon:chilan_berry
+- pixelmon:ginema_berry
+- pixelmon:kuo_berry
+- pixelmon:niniku_berry
+- pixelmon:nutpea_berry
+- pixelmon:pumkin_berry
+- pixelmon:strib_berry
+- pixelmon:topo_berry
+- pixelmon:touga_berry
+- pixelmon:yago_berry
+
+#forge:ores/iridium
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+- #forge:fence_gates/plastic
+- byg:aspen_fence_gate
+- byg:baobab_fence_gate
+- byg:blue_enchanted_fence_gate
+- byg:cherry_fence_gate
+- byg:cika_fence_gate
+- byg:cypress_fence_gate
+- byg:ebony_fence_gate
+- byg:fir_fence_gate
+- byg:green_enchanted_fence_gate
+- byg:holly_fence_gate
+- byg:jacaranda_fence_gate
+- byg:mahogany_fence_gate
+- byg:mangrove_fence_gate
+- byg:maple_fence_gate
+- byg:pine_fence_gate
+- byg:rainbow_eucalyptus_fence_gate
+- byg:redwood_fence_gate
+- byg:skyris_fence_gate
+- byg:willow_fence_gate
+- byg:witch_hazel_fence_gate
+- byg:zelkova_fence_gate
+- byg:sythian_fence_gate
+- byg:embur_fence_gate
+- byg:palm_fence_gate
+- byg:lament_fence_gate
+- byg:ether_fence_gate
+- byg:bulbis_fence_gate
+- byg:nightshade_fence_gate
+- byg:imparius_fence_gate
+
+#forge:ingots
+- mekanism:ingot_osmium
+- mekanism:ingot_copper
+- mekanism:ingot_tin
+- mekanism:ingot_lead
+- mekanism:ingot_uranium
+- #forge:ingots/bronze
+- #forge:ingots/refined_glowstone
+- #forge:ingots/refined_obsidian
+- #forge:ingots/steel
+- moremekanismprocessing:aluminum_ingot?
+- moremekanismprocessing:azure_silver_ingot?
+- moremekanismprocessing:bismuth_ingot?
+- moremekanismprocessing:cobalt_ingot?
+- moremekanismprocessing:crimson_iron_ingot?
+- moremekanismprocessing:desh_ingot?
+- moremekanismprocessing:draconium_ingot?
+- moremekanismprocessing:iridium_ingot?
+- moremekanismprocessing:lithium_ingot?
+- moremekanismprocessing:nickel_ingot?
+- moremekanismprocessing:platinum_ingot?
+- moremekanismprocessing:silicon_ingot?
+- moremekanismprocessing:silver_ingot?
+- moremekanismprocessing:titanium_ingot?
+- moremekanismprocessing:tungsten_ingot?
+- moremekanismprocessing:zinc_ingot?
+- #forge:ingots/iron
+- #forge:ingots/gold
+- #forge:ingots/brick
+- #forge:ingots/nether_brick
+- #forge:ingots/netherite
+- pixelmon:aluminium_ingot
+- #create:create_ingots
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:storage_blocks/copper
+- mekanism:block_copper
+- create:copper_block
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+- byg:lignite
+- byg:anthracite
+
+#mekanism:shards/lapis
+- moremekanismprocessing:shard_lapis?
+
+#forge:ingots/refined_naquadah
+- mekanismmatter:refined_naquadah
+
+#forge:dusts/lithium
+- mekanism:dust_lithium
+- moremekanismprocessing:dust_lithium?
+
+#byg:willow_logs
+- byg:willow_log
+- byg:stripped_willow_log
+- byg:willow_wood
+- byg:stripped_willow_wood
+
+#mekanism:alloys/atomic
+- #forge:alloys/ultimate
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#forge:pickaxes
+- byg:pendorite_pickaxe
+
+#refinedstorage:parts/items/infinite
+- extradisks:infinite_storage_part
+
+#forge:dusts/iridium
+- moremekanismprocessing:dust_iridium?
+
+#mekanism:clumps/redstone
+- moremekanismprocessing:clump_redstone?
+
+#mekanism:crystals/bort
+- moremekanismprocessing:crystal_bort?
+
+#mekanism:crystals/electrotine
+- moremekanismprocessing:crystal_electrotine?
+
+#refinedstorage:parts/items/16384k
+- extradisks:16384k_storage_part
+- extrastorage:storagepart_16384k
+
+#mekanism:clumps/iridium
+- moremekanismprocessing:clump_iridium?
+
+#refinedstorage:network_transmitter
+- refinedstorage:pink_network_transmitter
+- refinedstorage:gray_network_transmitter
+- refinedstorage:orange_network_transmitter
+- refinedstorage:cyan_network_transmitter
+- refinedstorage:magenta_network_transmitter
+- refinedstorage:network_transmitter
+- refinedstorage:light_gray_network_transmitter
+- refinedstorage:brown_network_transmitter
+- refinedstorage:black_network_transmitter
+- refinedstorage:white_network_transmitter
+- refinedstorage:lime_network_transmitter
+- refinedstorage:purple_network_transmitter
+- refinedstorage:red_network_transmitter
+- refinedstorage:green_network_transmitter
+- refinedstorage:blue_network_transmitter
+- refinedstorage:yellow_network_transmitter
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#forge:ores/lead
+- mekanism:lead_ore
+
+#forge:black_sand
+- byg:black_sand
+
+#forge:ores/lithium
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#forge:rods/iron
+- createaddition:iron_rod
+
+#forge:dusts/desh
+- moremekanismprocessing:dust_desh?
+
+#mekanism:crystals/quartz
+- moremekanismprocessing:crystal_quartz?
+
+#mekanism:dirty_dusts/quartz
+- moremekanismprocessing:dirty_dust_quartz?
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#mekanism:alloys/infused
+- #forge:alloys/advanced
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#mekanism:enriched/carbon
+- mekanism:enriched_carbon
+
+#pixelmon:flutes
+- pixelmon:black_flute
+- pixelmon:blue_flute
+- pixelmon:green_flute
+- pixelmon:red_flute
+- pixelmon:white_flute
+- pixelmon:yellow_flute
+
+#forge:ores/draconium
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#forge:dusts/wood
+- mekanism:sawdust
+
+#mekanism:shards/apatite
+- moremekanismprocessing:shard_apatite?
+
+#refinedstorage:disks/items/256k
+- extradisks:256k_storage_disk
+- extrastorage:disk_256k
+
+#forge:pellets/plutonium
+- mekanism:pellet_plutonium
+
+#forge:fruits
+- byg:blueberries
+- byg:green_apple
+- byg:crimson_berries
+- byg:baobab_fruit
+- byg:joshua_fruit
+
+#forge:ingots/crystal
+- pixelmon:crystal
+
+#mekanism:clumps/zinc
+- moremekanismprocessing:clump_zinc?
+
+#mekanism:dirty_dusts/uranium
+- mekanism:dirty_dust_uranium
+
+#forge:sand/colorless
+- minecraft:sand
+- byg:end_sand
+
+#pixelmon:vendable
+- pixelmon:fresh_water
+- pixelmon:soda_pop
+- pixelmon:rare_soda
+- pixelmon:ultra_rare_soda
+- pixelmon:lemonade
+- pixelmon:moomoo_milk
+- pixelmon:berry_juice
+- pixelmon:soda_pop
+- pixelmon:curry_coconut
+
+#pixelmon:berries/natural_gift/electric
+- pixelmon:pecha_berry
+- pixelmon:wepear_berry
+- pixelmon:belue_berry
+- pixelmon:wacan_berry
+
+#forge:speed_upgrade_tag
+- mekanism:upgrade_speed
+
+#forge:nuggets/brass
+- create:brass_nugget
+
+#pixelmon:ultra_gingko_logs
+- pixelmon:ultra_gingko_log
+- pixelmon:ultra_gingko_wood
+- pixelmon:stripped_ultra_gingko_log
+- pixelmon:stripped_ultra_gingko_wood
+
+#mekanism:crystals/niter
+- moremekanismprocessing:crystal_niter?
+
+#byg:pink_sand
+- byg:pink_sand
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- create:granite_cobblestone_wall
+- create:granite_bricks_wall
+- create:fancy_granite_bricks_wall
+- create:paved_granite_wall
+- create:diorite_cobblestone_wall
+- create:diorite_bricks_wall
+- create:fancy_diorite_bricks_wall
+- create:paved_diorite_wall
+- create:andesite_cobblestone_wall
+- create:andesite_bricks_wall
+- create:fancy_andesite_bricks_wall
+- create:paved_andesite_wall
+- create:limestone_cobblestone_wall
+- create:polished_limestone_wall
+- create:limestone_bricks_wall
+- create:fancy_limestone_bricks_wall
+- create:paved_limestone_wall
+- create:weathered_limestone_cobblestone_wall
+- create:polished_weathered_limestone_wall
+- create:weathered_limestone_bricks_wall
+- create:fancy_weathered_limestone_bricks_wall
+- create:paved_weathered_limestone_wall
+- create:dolomite_cobblestone_wall
+- create:polished_dolomite_wall
+- create:dolomite_bricks_wall
+- create:fancy_dolomite_bricks_wall
+- create:paved_dolomite_wall
+- create:gabbro_cobblestone_wall
+- create:polished_gabbro_wall
+- create:gabbro_bricks_wall
+- create:fancy_gabbro_bricks_wall
+- create:paved_gabbro_wall
+- create:scoria_cobblestone_wall
+- create:polished_scoria_wall
+- create:scoria_bricks_wall
+- create:fancy_scoria_bricks_wall
+- create:paved_scoria_wall
+- create:dark_scoria_cobblestone_wall
+- create:polished_dark_scoria_wall
+- create:dark_scoria_bricks_wall
+- create:fancy_dark_scoria_bricks_wall
+- create:paved_dark_scoria_wall
+- byg:dacite_cobblestone_wall
+- byg:dacite_wall
+- byg:dacite_tile_wall
+- byg:dacite_brick_wall
+- byg:mossy_stone_wall
+- byg:rocky_stone_wall
+- byg:scoria_stone_wall
+- byg:scoria_cobblestone_wall
+- byg:scoria_stonebrick_wall
+- byg:soapstone_wall
+- byg:polished_soapstone_wall
+- byg:soapstone_brick_wall
+- byg:soapstone_tile_wall
+- byg:red_rock_wall
+- byg:red_rock_brick_wall
+- byg:mossy_red_rock_brick_wall
+- byg:cracked_red_rock_brick_wall
+- byg:chiseled_red_rock_brick_wall
+- byg:ether_stone_wall
+- byg:purpur_stone_wall
+- byg:cryptic_stone_wall
+- byg:chiseled_therium_wall
+- byg:shiny_chiseled_therium_wall
+- byg:cobbled_ether_stone_wall
+- byg:carved_ether_stone_wall
+- byg:travertine_wall
+- byg:polished_travertine_wall
+- byg:chiseled_travertine_wall
+- byg:chiseled_fungal_imparius_wall
+
+#forge:storage_blocks/lead
+- mekanism:block_lead
+
+#mekanism:clumps/iron
+- mekanism:clump_iron
+
+#pixelmon:vending_machines
+- pixelmon:white_vending_machine
+- pixelmon:orange_vending_machine
+- pixelmon:magenta_vending_machine
+- pixelmon:light_blue_vending_machine
+- pixelmon:yellow_vending_machine
+- pixelmon:lime_vending_machine
+- pixelmon:pink_vending_machine
+- pixelmon:gray_vending_machine
+- pixelmon:light_gray_vending_machine
+- pixelmon:cyan_vending_machine
+- pixelmon:purple_vending_machine
+- pixelmon:blue_vending_machine
+- pixelmon:brown_vending_machine
+- pixelmon:green_vending_machine
+- pixelmon:red_vending_machine
+- pixelmon:black_vending_machine
+
+#pixelmon:berries/natural_gift/flying
+- pixelmon:lum_berry
+- pixelmon:grepa_berry
+- pixelmon:coba_berry
+- pixelmon:lansat_berry
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+- pixelmon:raid_music_disc
+- pixelmon:wild_music_disc
+- pixelmon:player_music_disc
+- pixelmon:trainer_music_disc
+- pixelmon:gym_music_disc
+- pixelmon:boss_music_disc
+- pixelmon:legendary_music_disc
+- pixelmon:ultraspace_music_disc
+- pixelmon:pokecenter_music_disc
+
+#forge:gems
+- moremekanismprocessing:gem_amethyst?
+- moremekanismprocessing:gem_apatite?
+- moremekanismprocessing:gem_bort?
+- moremekanismprocessing:gem_cinnabar?
+- moremekanismprocessing:gem_dilithium?
+- moremekanismprocessing:gem_green_sapphire?
+- moremekanismprocessing:gem_niter?
+- moremekanismprocessing:gem_peridot?
+- moremekanismprocessing:gem_ruby?
+- moremekanismprocessing:gem_sapphire?
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+- pixelmon:silicon
+- pixelmon:crystal
+- pixelmon:ruby
+- pixelmon:amethyst
+- pixelmon:sapphire
+- byg:ametrine_gems
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+- byg:black_sand
+- byg:blue_sand
+- byg:end_sand
+- byg:pink_sand
+- byg:purple_sand
+- byg:white_sand
+
+#forge:nuggets/desh
+- moremekanismprocessing:desh_nugget?
+
+#mekanism:colorable/glass_panes
+- minecraft:glass_pane
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#forge:dusts/netherite
+- mekanism:dust_netherite
+
+#refinedstorage:storage_blocks/fluids/infinite
+- extradisks:infinite_fluid_storage_block
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#forge:gems/fluorite
+- mekanism:fluorite_gem
+
+#forge:ingots/bronze
+- mekanism:ingot_bronze
+
+#mekanism:shards/zinc
+- moremekanismprocessing:shard_zinc?
+
+#forge:ingots/copper
+- mekanism:ingot_copper
+- create:copper_ingot
+
+#forge:ores/cobalt
+
+#byg:double_purple_dye
+- byg:tall_allium
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- pixelmon:blue_berry_wood_trapdoor
+- pixelmon:green_berry_wood_trapdoor
+- pixelmon:pink_berry_wood_trapdoor
+- pixelmon:purple_berry_wood_trapdoor
+- pixelmon:red_berry_wood_trapdoor
+- pixelmon:yellow_berry_wood_trapdoor
+- pixelmon:ultra_gingko_trapdoor
+- pixelmon:ultra_elm_trapdoor
+- pixelmon:ultra_jungle_trapdoor
+- byg:aspen_trapdoor
+- byg:baobab_trapdoor
+- byg:blue_enchanted_trapdoor
+- byg:cherry_trapdoor
+- byg:cika_trapdoor
+- byg:cypress_trapdoor
+- byg:ebony_trapdoor
+- byg:fir_trapdoor
+- byg:green_enchanted_trapdoor
+- byg:holly_trapdoor
+- byg:jacaranda_trapdoor
+- byg:mahogany_trapdoor
+- byg:mangrove_trapdoor
+- byg:maple_trapdoor
+- byg:pine_trapdoor
+- byg:rainbow_eucalyptus_trapdoor
+- byg:redwood_trapdoor
+- byg:skyris_trapdoor
+- byg:willow_trapdoor
+- byg:witch_hazel_trapdoor
+- byg:zelkova_trapdoor
+- byg:sythian_trapdoor
+- byg:embur_trapdoor
+- byg:palm_trapdoor
+- byg:lament_trapdoor
+- byg:ether_trapdoor
+- byg:bulbis_trapdoor
+- byg:nightshade_trapdoor
+- byg:imparius_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#forge:wool/orange
+- minecraft:orange_wool
+
+#mekanism:clumps/coal
+- moremekanismprocessing:clump_coal?
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#byg:imparius_stems
+- byg:imparius_stem
+- byg:imparius_hyphae
+- byg:fungal_imparius_stem
+- byg:fungal_imparius_hyphae
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#refinedstorage:disks/fluids
+- #refinedstorage:disks/fluids/16384k
+- #refinedstorage:disks/fluids/65536k
+- #refinedstorage:disks/fluids/262144k
+- #refinedstorage:disks/fluids/1048576k
+- #refinedstorage:disks/fluids/infinite
+- #refinedstorage:disks/fluids/16384k
+- #refinedstorage:disks/fluids/65536k
+- #refinedstorage:disks/fluids/262144k
+- #refinedstorage:disks/fluids/1048576k
+
+#forge:wires
+- createaddition:copper_wire
+- createaddition:iron_wire
+- createaddition:gold_wire
+
+#forge:ingots/brass
+- create:brass_ingot
+
+#byg:yellow_dye
+- byg:lolipop_flower
+- byg:yellow_daffodil
+- byg:yellow_tulip
+
+#pixelmon:braille_block
+- pixelmon:braille_block_a
+- pixelmon:braille_block_b
+- pixelmon:braille_block_c
+- pixelmon:braille_block_d
+- pixelmon:braille_block_e
+- pixelmon:braille_block_f
+- pixelmon:braille_block_g
+- pixelmon:braille_block_h
+- pixelmon:braille_block_i
+- pixelmon:braille_block_j
+- pixelmon:braille_block_k
+- pixelmon:braille_block_l
+- pixelmon:braille_block_m
+- pixelmon:braille_block_n
+- pixelmon:braille_block_o
+- pixelmon:braille_block_p
+- pixelmon:braille_block_q
+- pixelmon:braille_block_r
+- pixelmon:braille_block_s
+- pixelmon:braille_block_t
+- pixelmon:braille_block_u
+- pixelmon:braille_block_v
+- pixelmon:braille_block_w
+- pixelmon:braille_block_x
+- pixelmon:braille_block_y
+- pixelmon:braille_block_z
+- pixelmon:braille_block_stop
+- pixelmon:braille_block_comma
+- pixelmon:braille_block_underscore
+- pixelmon:braille_block_blank
+
+#forge:ingots/iridium
+- moremekanismprocessing:iridium_ingot?
+
+#byg:green_dye
+- byg:golden_spined_cactus
+- byg:horseweed
+- byg:mini_cactus
+- byg:prickly_pear_cactus
+
+#mekanism:enriched/tin
+- mekanism:enriched_tin
+
+#forge:wool/light_blue
+- minecraft:light_blue_wool
+
+#forge:ores/cinnabar
+
+#forge:dusts/titanium
+- moremekanismprocessing:dust_titanium?
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#forge:ores/green_sapphire
+
+#mekanism:crystals/tungsten
+- moremekanismprocessing:crystal_tungsten?
+
+#refinedstorage:fluid_grid
+- refinedstorage:pink_fluid_grid
+- refinedstorage:gray_fluid_grid
+- refinedstorage:orange_fluid_grid
+- refinedstorage:cyan_fluid_grid
+- refinedstorage:magenta_fluid_grid
+- refinedstorage:fluid_grid
+- refinedstorage:light_gray_fluid_grid
+- refinedstorage:brown_fluid_grid
+- refinedstorage:black_fluid_grid
+- refinedstorage:white_fluid_grid
+- refinedstorage:lime_fluid_grid
+- refinedstorage:purple_fluid_grid
+- refinedstorage:red_fluid_grid
+- refinedstorage:green_fluid_grid
+- refinedstorage:blue_fluid_grid
+- refinedstorage:yellow_fluid_grid
+
+#pixelmon:pokeball_bases
+- pixelmon:iron_base
+- pixelmon:aluminum_base
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- pixelmon:blue_berry_wood_door
+- pixelmon:green_berry_wood_door
+- pixelmon:pink_berry_wood_door
+- pixelmon:purple_berry_wood_door
+- pixelmon:red_berry_wood_door
+- pixelmon:yellow_berry_wood_door
+- pixelmon:ultra_gingko_door
+- pixelmon:ultra_elm_door
+- pixelmon:ultra_jungle_door
+- byg:aspen_door
+- byg:baobab_door
+- byg:blue_enchanted_door
+- byg:cherry_door
+- byg:cika_door
+- byg:cypress_door
+- byg:ebony_door
+- byg:fir_door
+- byg:green_enchanted_door
+- byg:holly_door
+- byg:jacaranda_door
+- byg:mahogany_door
+- byg:mangrove_door
+- byg:maple_door
+- byg:pine_door
+- byg:rainbow_eucalyptus_door
+- byg:redwood_door
+- byg:skyris_door
+- byg:willow_door
+- byg:witch_hazel_door
+- byg:zelkova_door
+- byg:sythian_door
+- byg:embur_door
+- byg:palm_door
+- byg:lament_door
+- byg:ether_door
+- byg:bulbis_door
+- byg:nightshade_door
+- byg:imparius_door
+
+#forge:dusts/fluorite
+- mekanism:dust_fluorite
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#mekanism:shards/green_sapphire
+- moremekanismprocessing:shard_green_sapphire?
+
+#forge:purple_sand
+- byg:purple_sand
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#forge:nuggets/bismuth
+- moremekanismprocessing:bismuth_nugget?
+
+#pixelmon:berries/natural_gift/dragon
+- pixelmon:aguav_berry
+- pixelmon:nomel_berry
+- pixelmon:haban_berry
+- pixelmon:jaboca_berry
+
+#mekanism:crystals/uranium
+- mekanism:crystal_uranium
+
+#mekanism:crystals/lapis
+- moremekanismprocessing:crystal_lapis?
+
+#mekanism:shards/tin
+- mekanism:shard_tin
+
+#mekanism:shards/nickel
+- moremekanismprocessing:shard_nickel?
+
+#byg:embur_pedus
+- byg:embur_pedu
+- byg:stripped_embur_pedu
+- byg:embur_hyphae
+- byg:stripped_embur_hyphae
+
+#forge:ores/tungsten
+
+#forge:wool/blue
+- minecraft:blue_wool
+
+#byg:black_sand
+- byg:purple_sand
+
+#mekanism:shards/osmium
+- mekanism:shard_osmium
+
+#forge:nuggets/platinum
+- moremekanismprocessing:platinum_nugget?
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#forge:ingots/lithium
+- moremekanismprocessing:lithium_ingot?
+
+#pixelmon:berries/flavor/sour
+- pixelmon:aspear_berry
+- pixelmon:leppa_berry
+- pixelmon:oran_berry
+- pixelmon:persim_berry
+- pixelmon:sitrus_berry
+- pixelmon:iapapa_berry
+- pixelmon:wepear_berry
+- pixelmon:pinap_berry
+- pixelmon:kelpsy_berry
+- pixelmon:qualot_berry
+- pixelmon:grepa_berry
+- pixelmon:rabuta_berry
+- pixelmon:nomel_berry
+- pixelmon:durin_berry
+- pixelmon:belue_berry
+- pixelmon:wacan_berry
+- pixelmon:yache_berry
+- pixelmon:kebia_berry
+- pixelmon:payapa_berry
+- pixelmon:tanga_berry
+- pixelmon:colbur_berry
+- pixelmon:salac_berry
+- pixelmon:petaya_berry
+- pixelmon:apicot_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:jaboca_berry
+- pixelmon:rowap_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+
+#byg:light_blue_dye
+- byg:winter_scilla
+- byg:thereal_bellflower
+
+#byg:double_pink_dye
+- byg:japanese_orchid
+- byg:tall_pink_allium
+
+#pixelmon:berries/juice/yellow
+- #pixelmon:berries/juice/yellow/1
+- #pixelmon:berries/juice/yellow/2
+- #pixelmon:berries/juice/yellow/3
+
+#forge:gems/apatite
+- moremekanismprocessing:gem_apatite?
+
+#mekanism:crystals/platinum
+- moremekanismprocessing:crystal_platinum?
+
+#forge:sand/purple
+- byg:purple_sand
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#forge:gems/crystal
+- pixelmon:crystal
+
+#forge:dusts/ruby
+- moremekanismprocessing:dust_ruby?
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#mekanism:colorable/beds
+- minecraft:white_bed
+- minecraft:orange_bed
+- minecraft:magenta_bed
+- minecraft:light_blue_bed
+- minecraft:yellow_bed
+- minecraft:lime_bed
+- minecraft:pink_bed
+- minecraft:gray_bed
+- minecraft:light_gray_bed
+- minecraft:cyan_bed
+- minecraft:purple_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:green_bed
+- minecraft:red_bed
+- minecraft:black_bed
+
+#mekanism:crystals
+- mekanism:crystal_iron
+- mekanism:crystal_gold
+- mekanism:crystal_osmium
+- mekanism:crystal_copper
+- mekanism:crystal_tin
+- mekanism:crystal_lead
+- mekanism:crystal_uranium
+- moremekanismprocessing:crystal_aluminum?
+- moremekanismprocessing:crystal_amethyst?
+- moremekanismprocessing:crystal_apatite?
+- moremekanismprocessing:crystal_azure_silver?
+- moremekanismprocessing:crystal_bismuth?
+- moremekanismprocessing:crystal_bort?
+- moremekanismprocessing:crystal_cinnabar?
+- moremekanismprocessing:crystal_cobalt?
+- moremekanismprocessing:crystal_crimson_iron?
+- moremekanismprocessing:crystal_desh?
+- moremekanismprocessing:crystal_dilithium?
+- moremekanismprocessing:crystal_draconium?
+- moremekanismprocessing:crystal_electrotine?
+- moremekanismprocessing:crystal_green_sapphire?
+- moremekanismprocessing:crystal_iridium?
+- moremekanismprocessing:crystal_lithium?
+- moremekanismprocessing:crystal_nickel?
+- moremekanismprocessing:crystal_niter?
+- moremekanismprocessing:crystal_peridot?
+- moremekanismprocessing:crystal_platinum?
+- moremekanismprocessing:crystal_ruby?
+- moremekanismprocessing:crystal_sapphire?
+- moremekanismprocessing:crystal_silicon?
+- moremekanismprocessing:crystal_silver?
+- moremekanismprocessing:crystal_sulfur?
+- moremekanismprocessing:crystal_titanium?
+- moremekanismprocessing:crystal_tungsten?
+- moremekanismprocessing:crystal_zinc?
+- moremekanismprocessing:crystal_coal?
+- moremekanismprocessing:crystal_lapis?
+- moremekanismprocessing:crystal_diamond?
+- moremekanismprocessing:crystal_redstone?
+- moremekanismprocessing:crystal_emerald?
+- moremekanismprocessing:crystal_quartz?
+
+#mekanism:crystals/cinnabar
+- moremekanismprocessing:crystal_cinnabar?
+
+#pixelmon:curry_ingredient
+- pixelmon:curry_toast
+- pixelmon:curry_pasta
+- pixelmon:curry_fried_food
+- pixelmon:curry_instant_noodle
+- pixelmon:curry_burger
+- pixelmon:curry_sausage
+- pixelmon:curry_beans
+- pixelmon:curry_mushroom
+- pixelmon:curry_potato
+- pixelmon:curry_salad
+- pixelmon:curry_seasoned
+- pixelmon:curry_juicy
+- pixelmon:curry_rich
+- pixelmon:curry_bone
+- pixelmon:curry_herb
+- pixelmon:curry_cream
+- pixelmon:curry_decorative
+- pixelmon:curry_coconut
+- pixelmon:curry_smoke_poke
+- pixelmon:curry_leek
+- pixelmon:curry_apple
+- pixelmon:curry_boiled_egg
+- pixelmon:curry_tropical
+- pixelmon:curry_cheese
+- pixelmon:curry_gigantamix
+
+#forge:nuggets/zinc
+- moremekanismprocessing:zinc_nugget?
+- create:zinc_nugget
+
+#byg:cherry_logs
+- byg:cherry_log
+- byg:stripped_cherry_log
+- byg:cherry_wood
+- byg:stripped_cherry_wood
+
+#forge:dusts/coal
+- mekanism:dust_coal
+- mekanism:dust_coal?
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#pixelmon:berries/juice/red/3
+- pixelmon:figy_berry
+- pixelmon:pomeg_berry
+- pixelmon:tamato_berry
+- pixelmon:liechi_berry
+- pixelmon:lansat_berry
+- pixelmon:custap_berry
+
+#pixelmon:berries/juice/red/2
+- pixelmon:occa_berry
+- pixelmon:chople_berry
+- pixelmon:haban_berry
+
+#pixelmon:berries/juice/red/1
+- pixelmon:cheri_berry
+- pixelmon:leppa_berry
+- pixelmon:razz_berry
+- pixelmon:spelon_berry
+
+#forge:dusts/copper
+- mekanism:dust_copper
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#forge:tools
+- #forge:tools/wrench
+- #forge:tools/wrench
+
+#forge:nuggets/uranium
+- mekanism:nugget_uranium
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- byg:soapstone_bricks
+- byg:scoria_stonebricks
+- byg:red_rock_bricks
+- byg:carved_ether_stone
+- byg:chiseled_therium
+- byg:shiny_chiseled_therium
+
+#pixelmon:berries/juice/purple/3
+- pixelmon:wiki_berry
+- pixelmon:ganlon_berry
+- pixelmon:enigma_berry
+
+#forge:nuggets/nickel
+- moremekanismprocessing:nickel_nugget?
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#mekanism:clumps/lithium
+- moremekanismprocessing:clump_lithium?
+
+#forge:dusts/refined_obsidian
+- mekanism:dust_refined_obsidian
+
+#pixelmon:berries/juice/purple/1
+- pixelmon:chesto_berry
+- pixelmon:bluk_berry
+- pixelmon:cornn_berry
+- pixelmon:pamtre_berry
+- pixelmon:belue_berry
+
+#pixelmon:berries/juice/purple/2
+- pixelmon:payapa_berry
+- pixelmon:kasib_berry
+- pixelmon:colbur_berry
+
+#forge:plates/gold
+- create:golden_sheet
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- #forge:slabs/plastic
+- #forge:slabs/plastic/glow
+- #forge:slabs/plastic/transparent
+- create:granite_cobblestone_slab
+- create:granite_bricks_slab
+- create:fancy_granite_bricks_slab
+- create:paved_granite_slab
+- create:diorite_cobblestone_slab
+- create:diorite_bricks_slab
+- create:fancy_diorite_bricks_slab
+- create:paved_diorite_slab
+- create:andesite_cobblestone_slab
+- create:andesite_bricks_slab
+- create:fancy_andesite_bricks_slab
+- create:paved_andesite_slab
+- create:limestone_cobblestone_slab
+- create:polished_limestone_slab
+- create:limestone_bricks_slab
+- create:fancy_limestone_bricks_slab
+- create:paved_limestone_slab
+- create:weathered_limestone_cobblestone_slab
+- create:polished_weathered_limestone_slab
+- create:weathered_limestone_bricks_slab
+- create:fancy_weathered_limestone_bricks_slab
+- create:paved_weathered_limestone_slab
+- create:dolomite_cobblestone_slab
+- create:polished_dolomite_slab
+- create:dolomite_bricks_slab
+- create:fancy_dolomite_bricks_slab
+- create:paved_dolomite_slab
+- create:gabbro_cobblestone_slab
+- create:polished_gabbro_slab
+- create:gabbro_bricks_slab
+- create:fancy_gabbro_bricks_slab
+- create:paved_gabbro_slab
+- create:scoria_cobblestone_slab
+- create:polished_scoria_slab
+- create:scoria_bricks_slab
+- create:fancy_scoria_bricks_slab
+- create:paved_scoria_slab
+- create:dark_scoria_cobblestone_slab
+- create:polished_dark_scoria_slab
+- create:dark_scoria_bricks_slab
+- create:fancy_dark_scoria_bricks_slab
+- create:paved_dark_scoria_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:dacite_cobblestone_slab
+- byg:mossy_stone_slab
+- byg:rocky_stone_slab
+- byg:scoria_stone_slab
+- byg:scoria_cobblestone_slab
+- byg:scoria_stonebrick_slab
+- byg:soapstone_slab
+- byg:polished_soapstone_slab
+- byg:soapstone_brick_slab
+- byg:soapstone_tile_slab
+- byg:red_rock_slab
+- byg:red_rock_brick_slab
+- byg:mossy_red_rock_brick_slab
+- byg:cracked_red_rock_brick_slab
+- byg:chiseled_red_rock_brick_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- byg:ether_stone_slab
+- byg:cobbled_ether_stone_slab
+- byg:carved_ether_stone_slab
+- byg:purpur_stone_slab
+- byg:imparius_slab
+- byg:chiseled_fungal_imparius_slab
+
+#forge:dusts/green_sapphire
+- moremekanismprocessing:dust_green_sapphire?
+
+#mekanism:shards/niter
+- moremekanismprocessing:shard_niter?
+
+#refinedstorage:crafting_monitor
+- refinedstorage:pink_crafting_monitor
+- refinedstorage:gray_crafting_monitor
+- refinedstorage:orange_crafting_monitor
+- refinedstorage:cyan_crafting_monitor
+- refinedstorage:magenta_crafting_monitor
+- refinedstorage:crafting_monitor
+- refinedstorage:light_gray_crafting_monitor
+- refinedstorage:brown_crafting_monitor
+- refinedstorage:black_crafting_monitor
+- refinedstorage:white_crafting_monitor
+- refinedstorage:lime_crafting_monitor
+- refinedstorage:purple_crafting_monitor
+- refinedstorage:red_crafting_monitor
+- refinedstorage:green_crafting_monitor
+- refinedstorage:blue_crafting_monitor
+- refinedstorage:yellow_crafting_monitor
+
+#forge:ores/apatite
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- byg:aspen_button
+- byg:baobab_button
+- byg:blue_enchanted_button
+- byg:cherry_button
+- byg:cika_button
+- byg:cypress_button
+- byg:ebony_button
+- byg:fir_button
+- byg:green_enchanted_button
+- byg:holly_button
+- byg:jacaranda_button
+- byg:mahogany_button
+- byg:mangrove_button
+- byg:maple_button
+- byg:pine_button
+- byg:rainbow_eucalyptus_button
+- byg:redwood_button
+- byg:skyris_button
+- byg:willow_button
+- byg:witch_hazel_button
+- byg:zelkova_button
+- byg:sythian_button
+- byg:embur_button
+- byg:palm_button
+- byg:lament_button
+- byg:ether_button
+- byg:bulbis_button
+- byg:nightshade_button
+- byg:imparius_button
+
+#forge:dusts/dilithium
+- moremekanismprocessing:dust_dilithium?
+
+#byg:green_enchanted_logs
+- byg:green_enchanted_log
+- byg:stripped_green_enchanted_log
+- byg:green_enchanted_wood
+- byg:stripped_green_enchanted_wood
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#forge:wool/lime
+- minecraft:lime_wool
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- pixelmon:blue_berry_wood_pressure_plate
+- pixelmon:green_berry_wood_pressure_plate
+- pixelmon:pink_berry_wood_pressure_plate
+- pixelmon:purple_berry_wood_pressure_plate
+- pixelmon:red_berry_wood_pressure_plate
+- pixelmon:yellow_berry_wood_pressure_plate
+- pixelmon:ultra_gingko_pressure_plate
+- pixelmon:ultra_elm_pressure_plate
+- pixelmon:ultra_jungle_pressure_plate
+- byg:aspen_pressure_plate
+- byg:baobab_pressure_plate
+- byg:blue_enchanted_pressure_plate
+- byg:cherry_pressure_plate
+- byg:cika_pressure_plate
+- byg:cypress_pressure_plate
+- byg:ebony_pressure_plate
+- byg:fir_pressure_plate
+- byg:green_enchanted_pressure_plate
+- byg:holly_pressure_plate
+- byg:jacaranda_pressure_plate
+- byg:mahogany_pressure_plate
+- byg:mangrove_pressure_plate
+- byg:maple_pressure_plate
+- byg:pine_pressure_plate
+- byg:rainbow_eucalyptus_pressure_plate
+- byg:redwood_pressure_plate
+- byg:skyris_pressure_plate
+- byg:willow_pressure_plate
+- byg:witch_hazel_pressure_plate
+- byg:zelkova_pressure_plate
+- byg:sythian_pressure_plate
+- byg:embur_pressure_plate
+- byg:palm_pressure_plate
+- byg:lament_pressure_plate
+- byg:ether_pressure_plate
+- byg:bulbis_pressure_plate
+- byg:nightshade_pressure_plate
+- byg:imparius_pressure_plate
+
+#mekanism:dirty_dusts/silicon
+- moremekanismprocessing:dirty_dust_silicon?
+
+#mekanism:crystals/bismuth
+- moremekanismprocessing:crystal_bismuth?
+
+#forge:nuggets/osmium
+- mekanism:nugget_osmium
+
+#mekanism:crystals/silicon
+- moremekanismprocessing:crystal_silicon?
+
+#byg:sythian_stems
+- byg:sythian_stem
+- byg:stripped_sythian_stem
+- byg:sythian_hyphae
+- byg:stripped_sythian_hyphae
+
+#forge:pellets/antimatter
+- mekanism:pellet_antimatter
+
+#mekanism:dirty_dusts/bismuth
+- moremekanismprocessing:dirty_dust_bismuth?
+
+#mekanism:shards/iron
+- mekanism:shard_iron
+
+#create:create_ingots
+- create:copper_ingot
+- create:zinc_ingot
+- create:brass_ingot
+
+#forge:ingots/aluminium
+- pixelmon:aluminium_ingot
+
+#mekanism:shards/titanium
+- moremekanismprocessing:shard_titanium?
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#mekanism:clumps/ruby
+- moremekanismprocessing:clump_ruby?
+
+#forge:ores/electrotine
+
+#refinedstorage:crafter
+- refinedstorage:pink_crafter
+- refinedstorage:gray_crafter
+- refinedstorage:orange_crafter
+- refinedstorage:cyan_crafter
+- refinedstorage:magenta_crafter
+- refinedstorage:crafter
+- refinedstorage:light_gray_crafter
+- refinedstorage:brown_crafter
+- refinedstorage:black_crafter
+- refinedstorage:white_crafter
+- refinedstorage:lime_crafter
+- refinedstorage:purple_crafter
+- refinedstorage:red_crafter
+- refinedstorage:green_crafter
+- refinedstorage:blue_crafter
+- refinedstorage:yellow_crafter
+
+#pixelmon:berries/natural_gift/fairy
+- pixelmon:roseli_berry
+- pixelmon:kee_berry
+
+#forge:plates/aluminium
+- pixelmon:aluminium_plate
+
+#byg:white_dye
+- byg:white_anemone
+- byg:white_sage
+- byg:winter_rose
+- byg:snowdrops
+- byg:angelica
+
+#forge:hoes
+- byg:pendorite_hoe
+
+#forge:wool/cyan
+- minecraft:cyan_wool
+
+#refinedstorage:storage_blocks/fluids
+- #refinedstorage:storage_blocks/fluids/16384k
+- #refinedstorage:storage_blocks/fluids/65536k
+- #refinedstorage:storage_blocks/fluids/262144k
+- #refinedstorage:storage_blocks/fluids/1048576k
+- #refinedstorage:storage_blocks/fluids/infinite
+- #refinedstorage:storage_blocks/fluids/16384k
+- #refinedstorage:storage_blocks/fluids/65536k
+- #refinedstorage:storage_blocks/fluids/262144k
+- #refinedstorage:storage_blocks/fluids/1048576k
+
+#mekanism:colorable/banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#pixelmon:trade_machines
+- pixelmon:white_trade_machine
+- pixelmon:orange_trade_machine
+- pixelmon:magenta_trade_machine
+- pixelmon:light_blue_trade_machine
+- pixelmon:yellow_trade_machine
+- pixelmon:lime_trade_machine
+- pixelmon:pink_trade_machine
+- pixelmon:gray_trade_machine
+- pixelmon:light_gray_trade_machine
+- pixelmon:cyan_trade_machine
+- pixelmon:purple_trade_machine
+- pixelmon:blue_trade_machine
+- pixelmon:brown_trade_machine
+- pixelmon:green_trade_machine
+- pixelmon:red_trade_machine
+- pixelmon:black_trade_machine
+
+#mekanism:shards/peridot
+- moremekanismprocessing:shard_peridot?
+
+#mekanism:shards/bismuth
+- moremekanismprocessing:shard_bismuth?
+
+#mekanismadditions:plastic_blocks/glow
+- mekanismadditions:black_plastic_glow
+- mekanismadditions:blue_plastic_glow
+- mekanismadditions:green_plastic_glow
+- mekanismadditions:cyan_plastic_glow
+- mekanismadditions:dark_red_plastic_glow
+- mekanismadditions:purple_plastic_glow
+- mekanismadditions:orange_plastic_glow
+- mekanismadditions:light_gray_plastic_glow
+- mekanismadditions:gray_plastic_glow
+- mekanismadditions:light_blue_plastic_glow
+- mekanismadditions:lime_plastic_glow
+- mekanismadditions:aqua_plastic_glow
+- mekanismadditions:red_plastic_glow
+- mekanismadditions:magenta_plastic_glow
+- mekanismadditions:yellow_plastic_glow
+- mekanismadditions:white_plastic_glow
+- mekanismadditions:brown_plastic_glow
+- mekanismadditions:pink_plastic_glow
+
+#pixelmon:berries/juice/3
+- #pixelmon:berries/juice/red/3
+- #pixelmon:berries/juice/purple/3
+- #pixelmon:berries/juice/pink/3
+- #pixelmon:berries/juice/green/3
+- #pixelmon:berries/juice/yellow/3
+- #pixelmon:berries/juice/blue/3
+
+#pixelmon:berries/juice/2
+- #pixelmon:berries/juice/red/2
+- #pixelmon:berries/juice/purple/2
+- #pixelmon:berries/juice/pink/2
+- #pixelmon:berries/juice/green/2
+- #pixelmon:berries/juice/yellow/2
+- #pixelmon:berries/juice/blue/2
+
+#pixelmon:berries/juice/1
+- #pixelmon:berries/juice/red/1
+- #pixelmon:berries/juice/purple/1
+- #pixelmon:berries/juice/pink/1
+- #pixelmon:berries/juice/green/1
+- #pixelmon:berries/juice/yellow/1
+- #pixelmon:berries/juice/blue/1
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:stairs/plastic/transparent
+- mekanismadditions:black_plastic_transparent_stairs
+- mekanismadditions:blue_plastic_transparent_stairs
+- mekanismadditions:green_plastic_transparent_stairs
+- mekanismadditions:cyan_plastic_transparent_stairs
+- mekanismadditions:dark_red_plastic_transparent_stairs
+- mekanismadditions:purple_plastic_transparent_stairs
+- mekanismadditions:orange_plastic_transparent_stairs
+- mekanismadditions:light_gray_plastic_transparent_stairs
+- mekanismadditions:gray_plastic_transparent_stairs
+- mekanismadditions:light_blue_plastic_transparent_stairs
+- mekanismadditions:lime_plastic_transparent_stairs
+- mekanismadditions:aqua_plastic_transparent_stairs
+- mekanismadditions:red_plastic_transparent_stairs
+- mekanismadditions:magenta_plastic_transparent_stairs
+- mekanismadditions:yellow_plastic_transparent_stairs
+- mekanismadditions:white_plastic_transparent_stairs
+- mekanismadditions:brown_plastic_transparent_stairs
+- mekanismadditions:pink_plastic_transparent_stairs
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#refinedstorage:parts/fluids/infinite
+- extradisks:infinite_fluid_storage_part
+
+#forge:ingots/azure_silver
+- moremekanismprocessing:azure_silver_ingot?
+
+#refinedstorage:parts/fluids
+- #refinedstorage:parts/fluids/16384k
+- #refinedstorage:parts/fluids/65536k
+- #refinedstorage:parts/fluids/262144k
+- #refinedstorage:parts/fluids/1048576k
+- #refinedstorage:parts/fluids/infinite
+- #refinedstorage:parts/fluids/16384k
+- #refinedstorage:parts/fluids/65536k
+- #refinedstorage:parts/fluids/262144k
+- #refinedstorage:parts/fluids/1048576k
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#mekanism:enriched/redstone
+- mekanism:enriched_redstone
+
+#forge:dusts/cinnabar
+- moremekanismprocessing:dust_cinnabar?
+
+#forge:ores/zinc
+- create:zinc_ore
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#mekanismadditions:plastic_blocks/reinforced
+- mekanismadditions:black_reinforced_plastic
+- mekanismadditions:blue_reinforced_plastic
+- mekanismadditions:green_reinforced_plastic
+- mekanismadditions:cyan_reinforced_plastic
+- mekanismadditions:dark_red_reinforced_plastic
+- mekanismadditions:purple_reinforced_plastic
+- mekanismadditions:orange_reinforced_plastic
+- mekanismadditions:light_gray_reinforced_plastic
+- mekanismadditions:gray_reinforced_plastic
+- mekanismadditions:light_blue_reinforced_plastic
+- mekanismadditions:lime_reinforced_plastic
+- mekanismadditions:aqua_reinforced_plastic
+- mekanismadditions:red_reinforced_plastic
+- mekanismadditions:magenta_reinforced_plastic
+- mekanismadditions:yellow_reinforced_plastic
+- mekanismadditions:white_reinforced_plastic
+- mekanismadditions:brown_reinforced_plastic
+- mekanismadditions:pink_reinforced_plastic
+
+#forge:nuggets/copper
+- mekanism:nugget_copper
+- create:copper_nugget
+
+#pixelmon:berries/natural_gift/ghost
+- pixelmon:mago_berry
+- pixelmon:rabuta_berry
+- pixelmon:kasib_berry
+- pixelmon:custap_berry
+
+#forge:dusts/tungsten
+- moremekanismprocessing:dust_tungsten?
+
+#mekanism:clumps/platinum
+- moremekanismprocessing:clump_platinum?
+
+#byg:zelkova_logs
+- byg:zelkova_log
+- byg:stripped_zelkova_log
+- byg:zelkova_wood
+- byg:stripped_zelkova_wood
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#forge:leggings
+- byg:ametrine_leggings
+
+#mekanism:dirty_dusts/lead
+- mekanism:dirty_dust_lead
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#forge:shovels
+- byg:pendorite_shovel
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#create:sandpaper
+- create:sand_paper
+- create:red_sand_paper
+- createaddition:diamond_grit_sandpaper
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+
+#forge:ores/sapphire
+- iceandfire:sapphire_ore?
+- pixelmon:sapphire_ore
+
+#forge:ores/lignite
+- byg:lignite_ore
+
+#forge:ingots/crimson_iron
+- moremekanismprocessing:crimson_iron_ingot?
+
+#forge:dusts/cobalt
+- moremekanismprocessing:dust_cobalt?
+
+#forge:circuits/basic
+- mekanism:basic_control_circuit
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#forge:storage_blocks/steel
+- mekanism:block_steel
+
+#forge:gems/cinnabar
+- moremekanismprocessing:gem_cinnabar?
+
+#mekanism:shards/uranium
+- mekanism:shard_uranium
+
+#refinedstorage:detector
+- refinedstorage:pink_detector
+- refinedstorage:gray_detector
+- refinedstorage:orange_detector
+- refinedstorage:cyan_detector
+- refinedstorage:magenta_detector
+- refinedstorage:detector
+- refinedstorage:light_gray_detector
+- refinedstorage:brown_detector
+- refinedstorage:black_detector
+- refinedstorage:white_detector
+- refinedstorage:lime_detector
+- refinedstorage:purple_detector
+- refinedstorage:red_detector
+- refinedstorage:green_detector
+- refinedstorage:blue_detector
+- refinedstorage:yellow_detector
+
+#forge:blue_sand
+- byg:blue_sand
+
+#forge:storage_blocks/refined_glowstone
+- mekanism:block_refined_glowstone
+
+#forge:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- byg:green_mushroom
+- byg:wood_blewit
+- byg:weeping_milkcap
+- byg:black_puff
+- byg:sythian_fungus
+- byg:imparius_mushroom
+
+#mekanism:crystals/peridot
+- moremekanismprocessing:crystal_peridot?
+
+#forge:storage_blocks/bronze
+- mekanism:block_bronze
+
+#mekanism:shards
+- mekanism:shard_iron
+- mekanism:shard_gold
+- mekanism:shard_osmium
+- mekanism:shard_copper
+- mekanism:shard_tin
+- mekanism:shard_lead
+- mekanism:shard_uranium
+- moremekanismprocessing:shard_aluminum?
+- moremekanismprocessing:shard_amethyst?
+- moremekanismprocessing:shard_apatite?
+- moremekanismprocessing:shard_azure_silver?
+- moremekanismprocessing:shard_bismuth?
+- moremekanismprocessing:shard_bort?
+- moremekanismprocessing:shard_cinnabar?
+- moremekanismprocessing:shard_cobalt?
+- moremekanismprocessing:shard_crimson_iron?
+- moremekanismprocessing:shard_desh?
+- moremekanismprocessing:shard_dilithium?
+- moremekanismprocessing:shard_draconium?
+- moremekanismprocessing:shard_electrotine?
+- moremekanismprocessing:shard_green_sapphire?
+- moremekanismprocessing:shard_iridium?
+- moremekanismprocessing:shard_lithium?
+- moremekanismprocessing:shard_nickel?
+- moremekanismprocessing:shard_niter?
+- moremekanismprocessing:shard_peridot?
+- moremekanismprocessing:shard_platinum?
+- moremekanismprocessing:shard_ruby?
+- moremekanismprocessing:shard_sapphire?
+- moremekanismprocessing:shard_silicon?
+- moremekanismprocessing:shard_silver?
+- moremekanismprocessing:shard_sulfur?
+- moremekanismprocessing:shard_titanium?
+- moremekanismprocessing:shard_tungsten?
+- moremekanismprocessing:shard_zinc?
+- moremekanismprocessing:shard_coal?
+- moremekanismprocessing:shard_lapis?
+- moremekanismprocessing:shard_diamond?
+- moremekanismprocessing:shard_redstone?
+- moremekanismprocessing:shard_emerald?
+- moremekanismprocessing:shard_quartz?
+
+#mekanism:clumps/sapphire
+- moremekanismprocessing:clump_sapphire?
+
+#forge:rods/all_metal
+- createaddition:iron_rod
+- createaddition:copper_rod
+- createaddition:gold_rod
+- createaddition:brass_rod
+
+#byg:skyris_logs
+- byg:skyris_log
+- byg:stripped_skyris_log
+- byg:skyris_wood
+- byg:stripped_skyris_wood
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- #forge:fences/plastic
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- byg:aspen_sapling
+- byg:baobab_sapling
+- byg:blue_enchanted_sapling
+- byg:blue_spruce_sapling
+- byg:brown_birch_sapling
+- byg:brown_oak_sapling
+- byg:cika_sapling
+- byg:cypress_sapling
+- byg:ebony_sapling
+- byg:fir_sapling
+- byg:green_enchanted_sapling
+- byg:holly_sapling
+- byg:jacaranda_sapling
+- byg:indigo_jacaranda_sapling
+- byg:mahogany_sapling
+- byg:mangrove_sapling
+- byg:maple_sapling
+- byg:orange_birch_sapling
+- byg:orange_oak_sapling
+- byg:orange_spruce_sapling
+- byg:orchard_sapling
+- byg:palo_verde_sapling
+- byg:pine_sapling
+- byg:pink_cherry_sapling
+- byg:rainbow_eucalyptus_sapling
+- byg:red_birch_sapling
+- byg:red_maple_sapling
+- byg:red_oak_sapling
+- byg:red_spruce_sapling
+- byg:redwood_sapling
+- byg:silver_maple_sapling
+- byg:white_cherry_sapling
+- byg:willow_sapling
+- byg:witch_hazel_sapling
+- byg:yellow_birch_sapling
+- byg:zelkova_sapling
+- byg:skyris_sapling
+- byg:palm_sapling
+- byg:araucaria_sapling
+- byg:brown_zelkova_sapling
+- byg:lament_sapling
+- byg:withering_oak_sapling
+- byg:ether_sapling
+- byg:nightshade_sapling
+
+#forge:ores/copper
+- mekanism:copper_ore
+- create:copper_ore
+
+#mekanism:dirty_dusts/titanium
+- moremekanismprocessing:dirty_dust_titanium?
+
+#byg:white_sand
+- byg:white_sand
+
+#pixelmon:berries
+- #pixelmon:berries/firmness/hard
+- #pixelmon:berries/firmness/soft
+- #pixelmon:berries/firmness/super_hard
+- #pixelmon:berries/firmness/very_hard
+- #pixelmon:berries/firmness/very_soft
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#forge:ores/silicon
+- pixelmon:silicon_ore
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- pixelmon:blue_berry_wood_fence
+- pixelmon:green_berry_wood_fence
+- pixelmon:pink_berry_wood_fence
+- pixelmon:purple_berry_wood_fence
+- pixelmon:red_berry_wood_fence
+- pixelmon:yellow_berry_wood_fence
+- pixelmon:picket_fence
+- pixelmon:ultra_jungle_fence
+- pixelmon:ultra_gingko_fence
+- pixelmon:ultra_elm_fence
+- byg:aspen_fence
+- byg:baobab_fence
+- byg:blue_enchanted_fence
+- byg:cherry_fence
+- byg:cika_fence
+- byg:cypress_fence
+- byg:ebony_fence
+- byg:fir_fence
+- byg:green_enchanted_fence
+- byg:holly_fence
+- byg:jacaranda_fence
+- byg:mahogany_fence
+- byg:mangrove_fence
+- byg:maple_fence
+- byg:pine_fence
+- byg:rainbow_eucalyptus_fence
+- byg:redwood_fence
+- byg:skyris_fence
+- byg:willow_fence
+- byg:witch_hazel_fence
+- byg:zelkova_fence
+- byg:sythian_fence
+- byg:embur_fence
+- byg:palm_fence
+- byg:lament_fence
+- byg:ether_fence
+- byg:bulbis_fence
+- byg:nightshade_fence
+- byg:imparius_fence
+
+#mekanism:dirty_dusts/diamond
+- moremekanismprocessing:dirty_dust_diamond?
+
+#forge:obsidian
+- minecraft:obsidian
+
+#refinedstorage:disks/items/262144k
+- extradisks:262144k_storage_disk
+
+#forge:alloys/ultimate
+- mekanism:alloy_atomic
+
+#forge:ingots/tungsten
+- moremekanismprocessing:tungsten_ingot?
+
+#mekanism:clumps/osmium
+- mekanism:clump_osmium
+
+#forge:slabs/plastic/glow
+- mekanismadditions:black_plastic_glow_slab
+- mekanismadditions:blue_plastic_glow_slab
+- mekanismadditions:green_plastic_glow_slab
+- mekanismadditions:cyan_plastic_glow_slab
+- mekanismadditions:dark_red_plastic_glow_slab
+- mekanismadditions:purple_plastic_glow_slab
+- mekanismadditions:orange_plastic_glow_slab
+- mekanismadditions:light_gray_plastic_glow_slab
+- mekanismadditions:gray_plastic_glow_slab
+- mekanismadditions:light_blue_plastic_glow_slab
+- mekanismadditions:lime_plastic_glow_slab
+- mekanismadditions:aqua_plastic_glow_slab
+- mekanismadditions:red_plastic_glow_slab
+- mekanismadditions:magenta_plastic_glow_slab
+- mekanismadditions:yellow_plastic_glow_slab
+- mekanismadditions:white_plastic_glow_slab
+- mekanismadditions:brown_plastic_glow_slab
+- mekanismadditions:pink_plastic_glow_slab
+
+#pixelmon:folding_chairs
+- pixelmon:white_folding_chair
+- pixelmon:orange_folding_chair
+- pixelmon:magenta_folding_chair
+- pixelmon:light_blue_folding_chair
+- pixelmon:yellow_folding_chair
+- pixelmon:lime_folding_chair
+- pixelmon:pink_folding_chair
+- pixelmon:gray_folding_chair
+- pixelmon:light_gray_folding_chair
+- pixelmon:cyan_folding_chair
+- pixelmon:purple_folding_chair
+- pixelmon:blue_folding_chair
+- pixelmon:brown_folding_chair
+- pixelmon:green_folding_chair
+- pixelmon:red_folding_chair
+- pixelmon:black_folding_chair
+
+#forge:rods/brass
+- createaddition:brass_rod
+
+#forge:gems/niter
+- moremekanismprocessing:gem_niter?
+
+#mekanism:clumps/aluminum
+- moremekanismprocessing:clump_aluminum?
+
+#forge:buckets/honey
+- create:honey_bucket
+
+#mekanism:shards/redstone
+- moremekanismprocessing:shard_redstone?
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#byg:light_gray_dye
+- byg:richea
+
+#refinedstorage:disks/items/65536k
+- extradisks:65536k_storage_disk
+
+#mekanism:colorable/wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:gems/peridot
+- moremekanismprocessing:gem_peridot?
+
+#mekanism:shards/dilithium
+- moremekanismprocessing:shard_dilithium?
+
+#forge:nuggets/refined_glowstone
+- mekanism:nugget_refined_glowstone
+
+#forge:naquadah_reactor_item_tag
+- mekanismmatter:trinium_reactor_casing
+- mekanismmatter:reactor_input_port
+- mekanismmatter:reactor_output_port
+- mekanismmatter:trinium_reactor_glass
+
+#forge:sand/white
+- byg:white_sand
+
+#forge:workbench
+- byg:aspen_crafting_table
+- byg:baobab_crafting_table
+- byg:blue_enchanted_crafting_table
+- byg:cherry_crafting_table
+- byg:cika_crafting_table
+- byg:cypress_crafting_table
+- byg:ebony_crafting_table
+- byg:fir_crafting_table
+- byg:green_enchanted_crafting_table
+- byg:holly_crafting_table
+- byg:jacaranda_crafting_table
+- byg:mahogany_crafting_table
+- byg:mangrove_crafting_table
+- byg:maple_crafting_table
+- byg:pine_crafting_table
+- byg:rainbow_eucalyptus_crafting_table
+- byg:redwood_crafting_table
+- byg:skyris_crafting_table
+- byg:willow_crafting_table
+- byg:witch_hazel_crafting_table
+- byg:zelkova_crafting_table
+- byg:sythian_crafting_table
+- byg:embur_crafting_table
+- byg:palm_crafting_table
+- byg:lament_crafting_table
+- byg:ether_crafting_table
+- byg:bulbis_crafting_table
+- byg:nightshade_crafting_table
+- byg:imparius_crafting_table
+
+#pixelmon:berries/juice/blue
+- #pixelmon:berries/juice/blue/1
+- #pixelmon:berries/juice/blue/2
+- #pixelmon:berries/juice/blue/3
+
+#forge:storage_blocks/pendorite
+- byg:pendorite_block
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- byg:aspen_trapdoor
+- byg:baobab_trapdoor
+- byg:blue_enchanted_trapdoor
+- byg:cherry_trapdoor
+- byg:cika_trapdoor
+- byg:cypress_trapdoor
+- byg:ebony_trapdoor
+- byg:fir_trapdoor
+- byg:green_enchanted_trapdoor
+- byg:holly_trapdoor
+- byg:jacaranda_trapdoor
+- byg:mahogany_trapdoor
+- byg:mangrove_trapdoor
+- byg:maple_trapdoor
+- byg:pine_trapdoor
+- byg:rainbow_eucalyptus_trapdoor
+- byg:redwood_trapdoor
+- byg:skyris_trapdoor
+- byg:willow_trapdoor
+- byg:witch_hazel_trapdoor
+- byg:zelkova_trapdoor
+- byg:sythian_trapdoor
+- byg:embur_trapdoor
+- byg:palm_trapdoor
+- byg:lament_trapdoor
+- byg:ether_trapdoor
+- byg:bulbis_trapdoor
+- byg:nightshade_trapdoor
+- byg:imparius_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#forge:leather
+- minecraft:leather
+
+#pixelmon:chairs
+- pixelmon:white_chair
+- pixelmon:orange_chair
+- pixelmon:magenta_chair
+- pixelmon:light_blue_chair
+- pixelmon:yellow_chair
+- pixelmon:lime_chair
+- pixelmon:pink_chair
+- pixelmon:gray_chair
+- pixelmon:light_gray_chair
+- pixelmon:cyan_chair
+- pixelmon:purple_chair
+- pixelmon:blue_chair
+- pixelmon:brown_chair
+- pixelmon:green_chair
+- pixelmon:red_chair
+- pixelmon:black_chair
+
+#forge:dusts/salt
+- mekanism:salt
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+
+#forge:gems/ametrine
+- byg:ametrine_gems
+
+#forge:ores/crystal
+- pixelmon:crystal_ore
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+- pixelmon:blue_berry_wood_boat
+- pixelmon:green_berry_wood_boat
+- pixelmon:pink_berry_wood_boat
+- pixelmon:purple_berry_wood_boat
+- pixelmon:red_berry_wood_boat
+- pixelmon:yellow_berry_wood_boat
+- pixelmon:ultra_jungle_boat
+- pixelmon:ultra_gingko_boat
+- pixelmon:ultra_elm_boat
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#refinedstorage:disk_manipulator
+- refinedstorage:pink_disk_manipulator
+- refinedstorage:gray_disk_manipulator
+- refinedstorage:orange_disk_manipulator
+- refinedstorage:cyan_disk_manipulator
+- refinedstorage:magenta_disk_manipulator
+- refinedstorage:disk_manipulator
+- refinedstorage:light_gray_disk_manipulator
+- refinedstorage:brown_disk_manipulator
+- refinedstorage:black_disk_manipulator
+- refinedstorage:white_disk_manipulator
+- refinedstorage:lime_disk_manipulator
+- refinedstorage:purple_disk_manipulator
+- refinedstorage:red_disk_manipulator
+- refinedstorage:green_disk_manipulator
+- refinedstorage:blue_disk_manipulator
+- refinedstorage:yellow_disk_manipulator
+
+#mekanismadditions:plastic_blocks/plastic
+- mekanismadditions:black_plastic
+- mekanismadditions:blue_plastic
+- mekanismadditions:green_plastic
+- mekanismadditions:cyan_plastic
+- mekanismadditions:dark_red_plastic
+- mekanismadditions:purple_plastic
+- mekanismadditions:orange_plastic
+- mekanismadditions:light_gray_plastic
+- mekanismadditions:gray_plastic
+- mekanismadditions:light_blue_plastic
+- mekanismadditions:lime_plastic
+- mekanismadditions:aqua_plastic
+- mekanismadditions:red_plastic
+- mekanismadditions:magenta_plastic
+- mekanismadditions:yellow_plastic
+- mekanismadditions:white_plastic
+- mekanismadditions:brown_plastic
+- mekanismadditions:pink_plastic
+
+#byg:baobab_logs
+- byg:baobab_log
+- byg:stripped_baobab_log
+- byg:baobab_wood
+- byg:stripped_baobab_wood
+
+#mekanism:shards/emerald
+- moremekanismprocessing:shard_emerald?
+
+#forge:storage_blocks/brass
+- create:brass_block
+
+#forge:crops/potato
+- minecraft:potato
+
+#byg:black_dye
+- byg:black_rose
+
+#forge:ores/ruby
+- pixelmon:ruby_ore
+
+#forge:wool/red
+- minecraft:red_wool
+
+#forge:dusts/apatite
+- moremekanismprocessing:dust_apatite?
+
+#mekanism:clumps/silver
+- moremekanismprocessing:clump_silver?
+
+#byg:mahogany_logs
+- byg:mahogany_log
+- byg:stripped_mahogany_log
+- byg:mahogany_wood
+- byg:stripped_mahogany_wood
+
+#forge:tools/wrench
+- mekanism:configurator
+- pipez:wrench
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#forge:nuggets/tin
+- mekanism:nugget_tin
+
+#forge:storage_blocks/zinc
+- create:zinc_block
+
+#byg:lament_logs
+- byg:lament_log
+- byg:stripped_lament_log
+- byg:lament_wood
+- byg:stripped_lament_wood
+
+#forge:dusts/nickel
+- moremekanismprocessing:dust_nickel?
+
+#refinedstorage:storage_blocks/items/1048576k
+- extradisks:1048576k_storage_block
+
+#forge:dusts/gold
+- mekanism:dust_gold
+
+#forge:wool/purple
+- minecraft:purple_wool
+
+#mekanism:shards/copper
+- mekanism:shard_copper
+
+#mekanism:clumps/cinnabar
+- moremekanismprocessing:clump_cinnabar?
+
+#byg:blue_dye
+- byg:blue_sage
+- byg:violet_leather_flower
+- byg:blueberries
+
+#mekanism:shards/azure_silver
+- moremekanismprocessing:shard_azure_silver?
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#pixelmon:cushion_chairs
+- pixelmon:white_cushion_chair
+- pixelmon:orange_cushion_chair
+- pixelmon:magenta_cushion_chair
+- pixelmon:light_blue_cushion_chair
+- pixelmon:yellow_cushion_chair
+- pixelmon:lime_cushion_chair
+- pixelmon:pink_cushion_chair
+- pixelmon:gray_cushion_chair
+- pixelmon:light_gray_cushion_chair
+- pixelmon:cyan_cushion_chair
+- pixelmon:purple_cushion_chair
+- pixelmon:blue_cushion_chair
+- pixelmon:brown_cushion_chair
+- pixelmon:green_cushion_chair
+- pixelmon:red_cushion_chair
+- pixelmon:black_cushion_chair
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#forge:ingots/desh
+- moremekanismprocessing:desh_ingot?
+
+#forge:storage_blocks/refined_obsidian
+- mekanism:block_refined_obsidian
+
+#mekanism:clumps/electrotine
+- moremekanismprocessing:clump_electrotine?
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#mekanism:crystals/gold
+- mekanism:crystal_gold
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#forge:ingots/refined_glowstone
+- mekanism:ingot_refined_glowstone
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#forge:wool/white
+- minecraft:white_wool
+
+#byg:redwood_logs
+- byg:redwood_log
+- byg:stripped_redwood_log
+- byg:redwood_wood
+- byg:stripped_redwood_wood
+
+#mekanism:dirty_dusts/tin
+- mekanism:dirty_dust_tin
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- create:limestone
+- create:polished_limestone
+- create:weathered_limestone
+- create:polished_weathered_limestone
+- create:dolomite
+- create:polished_dolomite
+- create:gabbro
+- create:polished_gabbro
+- create:scoria
+- create:polished_scoria
+- create:dark_scoria
+- create:polished_dark_scoria
+- byg:soapstone
+- byg:scoria_stone
+- byg:dacite
+- byg:rocky_stone
+- byg:mossy_stone
+- byg:overgrown_stone
+- byg:overgrown_dacite
+- byg:sythian_nylium
+- byg:podzol_dacite
+- byg:red_rock
+- byg:ether_stone
+
+#forge:ingots/naquadah
+- mekanismmatter:naquadah
+
+#mekanism:crystals/silver
+- moremekanismprocessing:crystal_silver?
+
+#forge:wrenches
+- mekanism:configurator
+- #forge:tools/wrench
+
+#mekanism:dirty_dusts/gold
+- mekanism:dirty_dust_gold
+
+#byg:rainbow_eucalyptus_logs
+- byg:rainbow_eucalyptus_log
+- byg:stripped_rainbow_eucalyptus_log
+- byg:rainbow_eucalyptus_wood
+- byg:stripped_rainbow_eucalyptus_wood
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#forge:wool/gray
+- minecraft:gray_wool
+
+#botanypots:hopper_botany_pots
+- botanypots:hopper_botany_pot
+- botanypots:hopper_white_botany_pot
+- botanypots:hopper_orange_botany_pot
+- botanypots:hopper_magenta_botany_pot
+- botanypots:hopper_light_blue_botany_pot
+- botanypots:hopper_yellow_botany_pot
+- botanypots:hopper_lime_botany_pot
+- botanypots:hopper_pink_botany_pot
+- botanypots:hopper_gray_botany_pot
+- botanypots:hopper_light_gray_botany_pot
+- botanypots:hopper_cyan_botany_pot
+- botanypots:hopper_purple_botany_pot
+- botanypots:hopper_blue_botany_pot
+- botanypots:hopper_brown_botany_pot
+- botanypots:hopper_green_botany_pot
+- botanypots:hopper_red_botany_pot
+- botanypots:hopper_black_botany_pot
+
+#byg:blue_enchanted_logs
+- byg:blue_enchanted_log
+- byg:stripped_blue_enchanted_log
+- byg:blue_enchanted_wood
+- byg:stripped_blue_enchanted_wood
+
+#forge:ingots/nickel
+- moremekanismprocessing:nickel_ingot?
+
+#create:crushed_ores
+- create:crushed_iron_ore
+- create:crushed_gold_ore
+- create:crushed_copper_ore
+- create:crushed_zinc_ore
+- create:crushed_brass
+- create:crushed_osmium_ore
+- create:crushed_platinum_ore
+- create:crushed_silver_ore
+- create:crushed_tin_ore
+- create:crushed_lead_ore
+- create:crushed_quicksilver_ore
+- create:crushed_aluminum_ore
+- create:crushed_uranium_ore
+- create:crushed_nickel_ore
+
+#byg:palm_logs
+- byg:palm_log
+- byg:stripped_palm_log
+- byg:palm_wood
+- byg:stripped_palm_wood
+
+#mekanism:clumps/tungsten
+- moremekanismprocessing:clump_tungsten?
+
+#pixelmon:berries/juice/red
+- #pixelmon:berries/juice/red/1
+- #pixelmon:berries/juice/red/2
+- #pixelmon:berries/juice/red/3
+
+#forge:crops
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+- byg:blueberries
+- byg:green_apple
+- byg:crimson_berries
+
+#mekanism:shards/bort
+- moremekanismprocessing:shard_bort?
+
+#pixelmon:healers
+- pixelmon:white_healer
+- pixelmon:orange_healer
+- pixelmon:magenta_healer
+- pixelmon:light_blue_healer
+- pixelmon:yellow_healer
+- pixelmon:lime_healer
+- pixelmon:pink_healer
+- pixelmon:gray_healer
+- pixelmon:light_gray_healer
+- pixelmon:cyan_healer
+- pixelmon:purple_healer
+- pixelmon:blue_healer
+- pixelmon:brown_healer
+- pixelmon:green_healer
+- pixelmon:red_healer
+- pixelmon:black_healer
+
+#forge:wool/magenta
+- minecraft:magenta_wool
+
+#pixelmon:apricorns
+- pixelmon:black_apricorn
+- pixelmon:blue_apricorn
+- pixelmon:green_apricorn
+- pixelmon:pink_apricorn
+- pixelmon:red_apricorn
+- pixelmon:white_apricorn
+- pixelmon:yellow_apricorn
+
+#mekanism:clumps/bort
+- moremekanismprocessing:clump_bort?
+
+#forge:pellets/polonium
+- mekanism:pellet_polonium
+
+#mekanism:dirty_dusts/copper
+- mekanism:dirty_dust_copper
+
+#mekanism:enriched/gold
+- mekanism:enriched_gold
+
+#byg:double_cyan_dye
+- byg:foxglove
+
+#mekanism:dirty_dusts/apatite
+- moremekanismprocessing:dirty_dust_apatite?
+
+#mekanism:colorable/carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#mekanism:dirty_dusts/cinnabar
+- moremekanismprocessing:dirty_dust_cinnabar?
+
+#forge:dusts/platinum
+- moremekanismprocessing:dust_platinum?
+
+#byg:aspen_logs
+- byg:aspen_log
+- byg:stripped_aspen_log
+- byg:aspen_wood
+- byg:stripped_aspen_wood
+
+#forge:dusts/amethyst
+- moremekanismprocessing:dust_amethyst?
+
+#forge:seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- byg:withering_oak_log
+- byg:withering_oak_wood
+
+#byg:purple_sand
+- byg:purple_sand
+
+#mekanism:dirty_dusts/electrotine
+- moremekanismprocessing:dirty_dust_electrotine?
+
+#mekanism:crystals/osmium
+- mekanism:crystal_osmium
+
+#mekanism:dirty_dusts/tungsten
+- moremekanismprocessing:dirty_dust_tungsten?
+
+#mekanism:crystals/titanium
+- moremekanismprocessing:crystal_titanium?
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#forge:stairs/plastic
+- mekanismadditions:black_plastic_stairs
+- mekanismadditions:blue_plastic_stairs
+- mekanismadditions:green_plastic_stairs
+- mekanismadditions:cyan_plastic_stairs
+- mekanismadditions:dark_red_plastic_stairs
+- mekanismadditions:purple_plastic_stairs
+- mekanismadditions:orange_plastic_stairs
+- mekanismadditions:light_gray_plastic_stairs
+- mekanismadditions:gray_plastic_stairs
+- mekanismadditions:light_blue_plastic_stairs
+- mekanismadditions:lime_plastic_stairs
+- mekanismadditions:aqua_plastic_stairs
+- mekanismadditions:red_plastic_stairs
+- mekanismadditions:magenta_plastic_stairs
+- mekanismadditions:yellow_plastic_stairs
+- mekanismadditions:white_plastic_stairs
+- mekanismadditions:brown_plastic_stairs
+- mekanismadditions:pink_plastic_stairs
+
+#forge:slimeballs
+- minecraft:slime_ball
+
+#mekanism:clumps/quartz
+- moremekanismprocessing:clump_quartz?
+
+#pixelmon:berries/juice/pink
+- #pixelmon:berries/juice/pink/1
+- #pixelmon:berries/juice/pink/2
+- #pixelmon:berries/juice/pink/3
+
+#forge:ores/nickel
+
+#forge:gems/silicon
+- pixelmon:silicon
+
+#forge:ores/yellorite
+- bigreactors:yellorite_ore?
+- biggerreactors:yellorite_ore?
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+
+#mekanism:crystals/redstone
+- moremekanismprocessing:crystal_redstone?
+
+#mekanism:crystals/lithium
+- moremekanismprocessing:crystal_lithium?
+
+#forge:white_sand
+- byg:white_sand
+
+#pixelmon:berries/firmness/soft
+- pixelmon:bluk_berry
+- pixelmon:cheri_berry
+- pixelmon:chilan_berry
+- pixelmon:chople_berry
+- pixelmon:eggant_berry
+- pixelmon:figy_berry
+- pixelmon:grepa_berry
+- pixelmon:haban_berry
+- pixelmon:iapapa_berry
+- pixelmon:jaboca_berry
+- pixelmon:lansat_berry
+- pixelmon:micle_berry
+- pixelmon:passho_berry
+- pixelmon:payapa_berry
+- pixelmon:rabuta_berry
+- pixelmon:rindo_berry
+- pixelmon:shuca_berry
+- pixelmon:spelon_berry
+- pixelmon:tamato_berry
+- pixelmon:watmel_berry
+
+#mekanism:crystals/sulfur
+- moremekanismprocessing:crystal_sulfur?
+
+#forge:dusts/niter
+- moremekanismprocessing:dust_niter?
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#mekanism:clumps/sulfur
+- moremekanismprocessing:clump_sulfur?
+
+#mekanismadditions:plastic_blocks
+- #mekanismadditions:plastic_blocks/glow
+- #mekanismadditions:plastic_blocks/plastic
+- #mekanismadditions:plastic_blocks/reinforced
+- #mekanismadditions:plastic_blocks/road
+- #mekanismadditions:plastic_blocks/slick
+- #mekanismadditions:plastic_blocks/transparent
+
+#forge:ores/desh
+
+#forge:ingots/silicon
+- moremekanismprocessing:silicon_ingot?
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- byg:aspen_fence_gate
+- byg:baobab_fence_gate
+- byg:blue_enchanted_fence_gate
+- byg:cherry_fence_gate
+- byg:cika_fence_gate
+- byg:cypress_fence_gate
+- byg:ebony_fence_gate
+- byg:fir_fence_gate
+- byg:green_enchanted_fence_gate
+- byg:holly_fence_gate
+- byg:jacaranda_fence_gate
+- byg:mahogany_fence_gate
+- byg:mangrove_fence_gate
+- byg:maple_fence_gate
+- byg:pine_fence_gate
+- byg:rainbow_eucalyptus_fence_gate
+- byg:redwood_fence_gate
+- byg:skyris_fence_gate
+- byg:willow_fence_gate
+- byg:witch_hazel_fence_gate
+- byg:zelkova_fence_gate
+- byg:sythian_fence_gate
+- byg:embur_fence_gate
+- byg:palm_fence_gate
+- byg:lament_fence_gate
+- byg:ether_fence_gate
+- byg:bulbis_fence_gate
+- byg:nightshade_fence_gate
+- byg:imparius_fence_gate
+
+#mekanism:crystals/iridium
+- moremekanismprocessing:crystal_iridium?
+
+#forge:ores/aluminum
+- voluminousenergy:raw_bauxite?
+- voluminousenergy:bauxiteore?
+
+#forge:ores/uranium
+- mekanism:uranium_ore
+- bigreactors:yellorite_ore?
+- biggerreactors:yellorite_ore?
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#pixelmon:berries/natural_gift/psychic
+- pixelmon:sitrus_berry
+- pixelmon:tamato_berry
+- pixelmon:payapa_berry
+- pixelmon:starf_berry
+
+#forge:gems/ruby
+- moremekanismprocessing:gem_ruby?
+- pixelmon:ruby
+
+#forge:wool/pink
+- minecraft:pink_wool
+
+#mekanism:clumps
+- mekanism:clump_iron
+- mekanism:clump_gold
+- mekanism:clump_osmium
+- mekanism:clump_copper
+- mekanism:clump_tin
+- mekanism:clump_lead
+- mekanism:clump_uranium
+- moremekanismprocessing:clump_aluminum?
+- moremekanismprocessing:clump_amethyst?
+- moremekanismprocessing:clump_apatite?
+- moremekanismprocessing:clump_azure_silver?
+- moremekanismprocessing:clump_bismuth?
+- moremekanismprocessing:clump_bort?
+- moremekanismprocessing:clump_cinnabar?
+- moremekanismprocessing:clump_cobalt?
+- moremekanismprocessing:clump_crimson_iron?
+- moremekanismprocessing:clump_desh?
+- moremekanismprocessing:clump_dilithium?
+- moremekanismprocessing:clump_draconium?
+- moremekanismprocessing:clump_electrotine?
+- moremekanismprocessing:clump_green_sapphire?
+- moremekanismprocessing:clump_iridium?
+- moremekanismprocessing:clump_lithium?
+- moremekanismprocessing:clump_nickel?
+- moremekanismprocessing:clump_niter?
+- moremekanismprocessing:clump_peridot?
+- moremekanismprocessing:clump_platinum?
+- moremekanismprocessing:clump_ruby?
+- moremekanismprocessing:clump_sapphire?
+- moremekanismprocessing:clump_silicon?
+- moremekanismprocessing:clump_silver?
+- moremekanismprocessing:clump_sulfur?
+- moremekanismprocessing:clump_titanium?
+- moremekanismprocessing:clump_tungsten?
+- moremekanismprocessing:clump_zinc?
+- moremekanismprocessing:clump_coal?
+- moremekanismprocessing:clump_lapis?
+- moremekanismprocessing:clump_diamond?
+- moremekanismprocessing:clump_redstone?
+- moremekanismprocessing:clump_emerald?
+- moremekanismprocessing:clump_quartz?
+
+#mekanism:dirty_dusts/emerald
+- moremekanismprocessing:dirty_dust_emerald?
+
+#forge:ingots/lead
+- mekanism:ingot_lead
+
+#mekanism:clumps/green_sapphire
+- moremekanismprocessing:clump_green_sapphire?
+
+#forge:ores/peridot
+
+#refinedstorage:parts/items/65536k
+- extradisks:65536k_storage_part
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- byg:flowering_indigo_jacaranda_bush
+- byg:flowering_jacaranda_bush
+- byg:flowering_indigo_jacaranda_leaves
+- byg:flowering_jacaranda_leaves
+- byg:flowering_orchard_leaves
+- byg:flowering_palo_verde_leaves
+- byg:flowering_nightshade_leaves
+
+#fabric:swords
+- byg:pendorite_sword
+- byg:pendorite_battleaxe
+
+#forge:dusts/tin
+- mekanism:dust_tin
+
+#byg:cika_logs
+- byg:cika_log
+- byg:stripped_cika_log
+- byg:cika_wood
+- byg:stripped_cika_wood
+
+#pixelmon:unown_block
+- pixelmon:unown_block_a
+- pixelmon:unown_block_b
+- pixelmon:unown_block_c
+- pixelmon:unown_block_d
+- pixelmon:unown_block_e
+- pixelmon:unown_block_f
+- pixelmon:unown_block_g
+- pixelmon:unown_block_h
+- pixelmon:unown_block_i
+- pixelmon:unown_block_j
+- pixelmon:unown_block_k
+- pixelmon:unown_block_l
+- pixelmon:unown_block_m
+- pixelmon:unown_block_n
+- pixelmon:unown_block_o
+- pixelmon:unown_block_p
+- pixelmon:unown_block_q
+- pixelmon:unown_block_r
+- pixelmon:unown_block_s
+- pixelmon:unown_block_t
+- pixelmon:unown_block_u
+- pixelmon:unown_block_v
+- pixelmon:unown_block_w
+- pixelmon:unown_block_x
+- pixelmon:unown_block_y
+- pixelmon:unown_block_z
+- pixelmon:unown_block_exclaim
+- pixelmon:unown_block_question
+
+#forge:gems/amethyst
+- moremekanismprocessing:gem_amethyst?
+- pixelmon:amethyst
+
+#refinedstorage:parts/items
+- #refinedstorage:parts/items/256k
+- #refinedstorage:parts/items/1024k
+- #refinedstorage:parts/items/4096k
+- #refinedstorage:parts/items/16384k
+- #refinedstorage:parts/items/65536k
+- #refinedstorage:parts/items/262144k
+- #refinedstorage:parts/items/1048576k
+- #refinedstorage:parts/items/infinite
+- #refinedstorage:parts/items/256k
+- #refinedstorage:parts/items/1024k
+- #refinedstorage:parts/items/4096k
+- #refinedstorage:parts/items/16384k
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#forge:ores/pendorite
+- byg:pendorite_ore
+
+#minecraft:fence_gates
+- pixelmon:blue_berry_wood_fence_gate
+- pixelmon:green_berry_wood_fence_gate
+- pixelmon:pink_berry_wood_fence_gate
+- pixelmon:purple_berry_wood_fence_gate
+- pixelmon:red_berry_wood_fence_gate
+- pixelmon:yellow_berry_wood_fence_gate
+- pixelmon:ultra_jungle_fence_gate
+- pixelmon:ultra_gingko_fence_gate
+- pixelmon:ultra_elm_fence_gate
+- pixelmon:blue_berry_wood_fence_gate
+- pixelmon:green_berry_wood_fence_gate
+- pixelmon:pink_berry_wood_fence_gate
+- pixelmon:purple_berry_wood_fence_gate
+- pixelmon:red_berry_wood_fence_gate
+- pixelmon:yellow_berry_wood_fence_gate
+- pixelmon:ultra_jungle_fence_gate
+- pixelmon:ultra_gingko_fence_gate
+- pixelmon:ultra_elm_fence_gate
+
+#refinedstorage:storage_blocks/items/1024k
+- extradisks:1024k_storage_block
+- extrastorage:block_1024k
+
+#mekanism:shards/diamond
+- moremekanismprocessing:shard_diamond?
+
+#forge:ores
+- #forge:ores/copper
+- #forge:ores/tin
+- #forge:ores/osmium
+- #forge:ores/uranium
+- #forge:ores/fluorite
+- #forge:ores/lead
+- voluminousenergy:raw_bauxite?
+- voluminousenergy:raw_rutile?
+- iceandfire:sapphire_ore?
+- iceandfire:amythest_ore?
+- bigreactors:yellorite_ore?
+- biggerreactors:yellorite_ore?
+- libvulpes:orerutile?
+- voluminousenergy:bauxiteore?
+- voluminousenergy:rutileore?
+- mekanismmatter:naquadah_ore
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- pixelmon:moon_stone_ore
+- pixelmon:ice_stone_ore
+- pixelmon:shiny_stone_ore
+- pixelmon:thunder_stone_ore
+- pixelmon:leaf_stone_ore
+- pixelmon:water_stone_ore
+- pixelmon:fire_stone_ore
+- pixelmon:sun_stone_ore
+- pixelmon:dusk_stone_ore
+- pixelmon:dawn_stone_ore
+- pixelmon:bauxite_ore
+- pixelmon:silver_ore
+- pixelmon:platinum_ore
+- pixelmon:ruby_ore
+- pixelmon:sapphire_ore
+- pixelmon:amethyst_ore
+- pixelmon:crystal_ore
+- pixelmon:silicon_ore
+- create:copper_ore
+- create:zinc_ore
+- byg:ametrine_ore
+- byg:anthracite_ore
+- byg:budding_ametrine_ore
+- byg:cryptic_redstone_ore
+- byg:lignite_ore
+- byg:pendorite_ore
+- byg:blue_nether_gold_ore
+- byg:blue_nether_quartz_ore
+- byg:brimstone_nether_gold_ore
+- byg:brimstone_nether_quartz_ore
+
+#pixelmon:umbrellas
+- pixelmon:white_umbrella
+- pixelmon:orange_umbrella
+- pixelmon:magenta_umbrella
+- pixelmon:light_blue_umbrella
+- pixelmon:yellow_umbrella
+- pixelmon:lime_umbrella
+- pixelmon:pink_umbrella
+- pixelmon:gray_umbrella
+- pixelmon:light_gray_umbrella
+- pixelmon:cyan_umbrella
+- pixelmon:purple_umbrella
+- pixelmon:blue_umbrella
+- pixelmon:brown_umbrella
+- pixelmon:green_umbrella
+- pixelmon:red_umbrella
+- pixelmon:black_umbrella
+
+#forge:rods/wooden
+- minecraft:stick
+
+#forge:ingots/bismuth
+- moremekanismprocessing:bismuth_ingot?
+
+#curios:curio
+- refinedstorage:wireless_grid
+- refinedstorage:creative_wireless_grid
+- refinedstorage:wireless_fluid_grid
+- refinedstorage:creative_wireless_fluid_grid
+- refinedstorage:wireless_crafting_monitor
+- refinedstorage:creative_wireless_crafting_monitor
+- refinedstorageaddons:wireless_crafting_grid
+- refinedstorageaddons:creative_wireless_crafting_grid
+
+#refinedstorage:disks/items
+- #refinedstorage:disks/items/256k
+- #refinedstorage:disks/items/1024k
+- #refinedstorage:disks/items/4096k
+- #refinedstorage:disks/items/16384k
+- #refinedstorage:disks/items/65536k
+- #refinedstorage:disks/items/262144k
+- #refinedstorage:disks/items/1048576k
+- #refinedstorage:disks/items/infinite
+- #refinedstorage:disks/items/256k
+- #refinedstorage:disks/items/1024k
+- #refinedstorage:disks/items/4096k
+- #refinedstorage:disks/items/16384k
+
+#forge:ores/bauxite
+- pixelmon:bauxite_ore
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#byg:holly_logs
+- byg:holly_log
+- byg:stripped_holly_log
+- byg:holly_wood
+- byg:stripped_holly_wood
+
+#forge:dusts/lead
+- mekanism:dust_lead
+
+#mekanism:dirty_dusts/nickel
+- moremekanismprocessing:dirty_dust_nickel?
+
+#byg:pine_logs
+- byg:pine_log
+- byg:stripped_pine_log
+- byg:pine_wood
+- byg:stripped_pine_wood
+
+#refinedstorage:storage_blocks/fluids/65536k
+- extradisks:65536k_fluid_storage_block
+- extrastorage:block_65536k_fluid
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#mekanism:dirty_dusts/lapis
+- moremekanismprocessing:dirty_dust_lapis?
+
+#forge:nuggets
+- mekanism:nugget_osmium
+- mekanism:nugget_copper
+- mekanism:nugget_tin
+- mekanism:nugget_lead
+- mekanism:nugget_uranium
+- #forge:nuggets/bronze
+- #forge:nuggets/refined_glowstone
+- #forge:nuggets/refined_obsidian
+- #forge:nuggets/steel
+- moremekanismprocessing:aluminum_nugget?
+- moremekanismprocessing:azure_silver_nugget?
+- moremekanismprocessing:bismuth_nugget?
+- moremekanismprocessing:cobalt_nugget?
+- moremekanismprocessing:crimson_iron_nugget?
+- moremekanismprocessing:desh_nugget?
+- moremekanismprocessing:draconium_nugget?
+- moremekanismprocessing:iridium_nugget?
+- moremekanismprocessing:lithium_nugget?
+- moremekanismprocessing:nickel_nugget?
+- moremekanismprocessing:platinum_nugget?
+- moremekanismprocessing:silicon_nugget?
+- moremekanismprocessing:silver_nugget?
+- moremekanismprocessing:titanium_nugget?
+- moremekanismprocessing:tungsten_nugget?
+- moremekanismprocessing:zinc_nugget?
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+- create:copper_nugget
+- create:zinc_nugget
+- create:brass_nugget
+
+#pixelmon:berries/natural_gift/rock
+- pixelmon:wiki_berry
+- pixelmon:magost_berry
+- pixelmon:charti_berry
+- pixelmon:micle_berry
+
+#mekanismadditions:plastic_blocks/transparent
+- mekanismadditions:black_plastic_transparent
+- mekanismadditions:blue_plastic_transparent
+- mekanismadditions:green_plastic_transparent
+- mekanismadditions:cyan_plastic_transparent
+- mekanismadditions:dark_red_plastic_transparent
+- mekanismadditions:purple_plastic_transparent
+- mekanismadditions:orange_plastic_transparent
+- mekanismadditions:light_gray_plastic_transparent
+- mekanismadditions:gray_plastic_transparent
+- mekanismadditions:light_blue_plastic_transparent
+- mekanismadditions:lime_plastic_transparent
+- mekanismadditions:aqua_plastic_transparent
+- mekanismadditions:red_plastic_transparent
+- mekanismadditions:magenta_plastic_transparent
+- mekanismadditions:yellow_plastic_transparent
+- mekanismadditions:white_plastic_transparent
+- mekanismadditions:brown_plastic_transparent
+- mekanismadditions:pink_plastic_transparent
+
+#mekanism:clumps/titanium
+- moremekanismprocessing:clump_titanium?
+
+#forge:plates/zinc
+- createaddition:zinc_sheet
+
+#fabric:pickaxes
+- byg:pendorite_pickaxe
+
+#mekanism:clumps/tin
+- mekanism:clump_tin
+
+#forge:rods/gold
+- createaddition:gold_rod
+
+#forge:axes
+- byg:pendorite_axe
+- byg:pendorite_battleaxe
+
+#mekanism:shards/draconium
+- moremekanismprocessing:shard_draconium?
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#mekanism:crystals/aluminum
+- moremekanismprocessing:crystal_aluminum?
+
+#pixelmon:ultra_jungle_logs
+- pixelmon:ultra_jungle_log
+- pixelmon:ultra_jungle_wood
+- pixelmon:stripped_ultra_jungle_log
+- pixelmon:stripped_ultra_jungle_wood
+
+#mekanism:crystals/lead
+- mekanism:crystal_lead
+
+#mekanism:clumps/niter
+- moremekanismprocessing:clump_niter?
+
+#pixelmon:berries/natural_gift/dark
+- pixelmon:iapapa_berry
+- pixelmon:spelon_berry
+- pixelmon:colbur_berry
+- pixelmon:rowap_berry
+- pixelmon:maranga_berry
+
+#mekanism:clumps/bismuth
+- moremekanismprocessing:clump_bismuth?
+
+#forge:wool/black
+- minecraft:black_wool
+
+#create:upright_on_belt
+- create:blaze_cake_base
+- create:blaze_cake
+- create:creative_blaze_cake
+- create:builders_tea
+- minecraft:glass_bottle
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:honey_bottle
+- minecraft:cake
+- createaddition:cake_base
+- createaddition:cake_base_baked
+- createaddition:chocolate_cake
+- createaddition:honey_cake
+- minecraft:cake
+- createaddition:seed_oil_bucket
+
+#forge:ores/niter
+
+#pixelmon:berries/flavor/sweet
+- pixelmon:pecha_berry
+- pixelmon:leppa_berry
+- pixelmon:persim_berry
+- pixelmon:lum_berry
+- pixelmon:sitrus_berry
+- pixelmon:mago_berry
+- pixelmon:bluk_berry
+- pixelmon:nanab_berry
+- pixelmon:pomeg_berry
+- pixelmon:qualot_berry
+- pixelmon:grepa_berry
+- pixelmon:cornn_berry
+- pixelmon:magost_berry
+- pixelmon:pamtre_berry
+- pixelmon:watmel_berry
+- pixelmon:occa_berry
+- pixelmon:wacan_berry
+- pixelmon:shuca_berry
+- pixelmon:payapa_berry
+- pixelmon:kasib_berry
+- pixelmon:haban_berry
+- pixelmon:chilan_berry
+- pixelmon:roseli_berry
+- pixelmon:liechi_berry
+- pixelmon:ganlon_berry
+- pixelmon:salac_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:micle_berry
+- pixelmon:custap_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+
+#forge:ores/titanium
+- voluminousenergy:raw_rutile?
+- libvulpes:orerutile?
+- voluminousenergy:rutileore?
+
+#mekanism:crystals/apatite
+- moremekanismprocessing:crystal_apatite?
+
+#refinedstorage:storage_blocks/items
+- #refinedstorage:storage_blocks/items/256k
+- #refinedstorage:storage_blocks/items/1024k
+- #refinedstorage:storage_blocks/items/4096k
+- #refinedstorage:storage_blocks/items/16384k
+- #refinedstorage:storage_blocks/items/65536k
+- #refinedstorage:storage_blocks/items/262144k
+- #refinedstorage:storage_blocks/items/1048576k
+- #refinedstorage:storage_blocks/items/infinite
+- #refinedstorage:storage_blocks/items/256k
+- #refinedstorage:storage_blocks/items/1024k
+- #refinedstorage:storage_blocks/items/4096k
+- #refinedstorage:storage_blocks/items/16384k
+
+#forge:nuggets/bronze
+- mekanism:nugget_bronze
+
+#mekanism:dirty_dusts/amethyst
+- moremekanismprocessing:dirty_dust_amethyst?
+
+#forge:stairs/plastic/glow
+- mekanismadditions:black_plastic_glow_stairs
+- mekanismadditions:blue_plastic_glow_stairs
+- mekanismadditions:green_plastic_glow_stairs
+- mekanismadditions:cyan_plastic_glow_stairs
+- mekanismadditions:dark_red_plastic_glow_stairs
+- mekanismadditions:purple_plastic_glow_stairs
+- mekanismadditions:orange_plastic_glow_stairs
+- mekanismadditions:light_gray_plastic_glow_stairs
+- mekanismadditions:gray_plastic_glow_stairs
+- mekanismadditions:light_blue_plastic_glow_stairs
+- mekanismadditions:lime_plastic_glow_stairs
+- mekanismadditions:aqua_plastic_glow_stairs
+- mekanismadditions:red_plastic_glow_stairs
+- mekanismadditions:magenta_plastic_glow_stairs
+- mekanismadditions:yellow_plastic_glow_stairs
+- mekanismadditions:white_plastic_glow_stairs
+- mekanismadditions:brown_plastic_glow_stairs
+- mekanismadditions:pink_plastic_glow_stairs
+
+#forge:circuits
+- #forge:circuits/basic
+- #forge:circuits/advanced
+- #forge:circuits/elite
+- #forge:circuits/ultimate
+
+#pixelmon:berries/natural_gift/poison
+- pixelmon:oran_berry
+- pixelmon:qualot_berry
+- pixelmon:kebia_berry
+- pixelmon:petaya_berry
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#byg:blue_sand
+- byg:blue_sand
+
+#forge:dusts/bismuth
+- moremekanismprocessing:dust_bismuth?
+
+#mekanism:crystals/sapphire
+- moremekanismprocessing:crystal_sapphire?
+
+#refinedstorage:storage_blocks/items/16384k
+- extradisks:16384k_storage_block
+- extrastorage:block_16384k
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#forge:dusts/uranium
+- mekanism:dust_uranium
+
+#mekanism:shards/gold
+- mekanism:shard_gold
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#forge:ores/bismuth
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+- byg:black_sandstone
+- byg:black_chiseled_sandstone
+- byg:black_cut_sandstone
+- byg:blue_sandstone
+- byg:blue_chiseled_sandstone
+- byg:blue_cut_sandstone
+- byg:white_sandstone
+- byg:white_chiseled_sandstone
+- byg:white_cut_sandstone
+- byg:purple_sandstone
+- byg:purple_chiseled_sandstone
+- byg:purple_cut_sandstone
+- byg:pink_sandstone
+- byg:pink_chiseled_sandstone
+- byg:pink_cut_sandstone
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#forge:gems/dilithium
+- moremekanismprocessing:gem_dilithium?
+
+#forge:ingots/osmium
+- mekanism:ingot_osmium
+
+#mekanism:enriched/diamond
+- mekanism:enriched_diamond
+
+#mekanism:clumps/gold
+- mekanism:clump_gold
+
+#forge:rods/plastic
+- mekanism:hdpe_stick
+
+#byg:red_dye
+- byg:amaranth
+- byg:begonia
+- byg:red_cornflower
+- byg:red_orchid
+- byg:kovan_flower
+- byg:rose
+- byg:torch_ginger
+
+#forge:ores/bort
+
+#mekanism:shards/sulfur
+- moremekanismprocessing:shard_sulfur?
+
+#mekanism:dirty_dusts/zinc
+- moremekanismprocessing:dirty_dust_zinc?
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#pixelmon:berries/flavor/spicy
+- pixelmon:cheri_berry
+- pixelmon:leppa_berry
+- pixelmon:oran_berry
+- pixelmon:persim_berry
+- pixelmon:lum_berry
+- pixelmon:figy_berry
+- pixelmon:razz_berry
+- pixelmon:pinap_berry
+- pixelmon:pomeg_berry
+- pixelmon:qualot_berry
+- pixelmon:hondew_berry
+- pixelmon:tamato_berry
+- pixelmon:nomel_berry
+- pixelmon:spelon_berry
+- pixelmon:belue_berry
+- pixelmon:occa_berry
+- pixelmon:rindo_berry
+- pixelmon:chople_berry
+- pixelmon:shuca_berry
+- pixelmon:tanga_berry
+- pixelmon:charti_berry
+- pixelmon:babiri_berry
+- pixelmon:liechi_berry
+- pixelmon:petaya_berry
+- pixelmon:apicot_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:pumkin_berry
+- pixelmon:drash_berry
+- pixelmon:eggant_berry
+- pixelmon:strib_berry
+- pixelmon:nutpea_berry
+- pixelmon:ginema_berry
+- pixelmon:kuo_berry
+- pixelmon:yago_berry
+- pixelmon:touga_berry
+- pixelmon:niniku_berry
+- pixelmon:topo_berry
+- pixelmon:enigma_berry
+- pixelmon:rowap_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#mekanismadditions:plastic_blocks/road
+- mekanismadditions:black_plastic_road
+- mekanismadditions:blue_plastic_road
+- mekanismadditions:green_plastic_road
+- mekanismadditions:cyan_plastic_road
+- mekanismadditions:dark_red_plastic_road
+- mekanismadditions:purple_plastic_road
+- mekanismadditions:orange_plastic_road
+- mekanismadditions:light_gray_plastic_road
+- mekanismadditions:gray_plastic_road
+- mekanismadditions:light_blue_plastic_road
+- mekanismadditions:lime_plastic_road
+- mekanismadditions:aqua_plastic_road
+- mekanismadditions:red_plastic_road
+- mekanismadditions:magenta_plastic_road
+- mekanismadditions:yellow_plastic_road
+- mekanismadditions:white_plastic_road
+- mekanismadditions:brown_plastic_road
+- mekanismadditions:pink_plastic_road
+
+#forge:ingots/uranium
+- mekanism:ingot_uranium
+
+#forge:dusts/bronze
+- mekanism:dust_bronze
+
+#mekanism:clumps/uranium
+- mekanism:clump_uranium
+
+#refinedstorage:parts/items/1024k
+- extradisks:1024k_storage_part
+- extrastorage:storagepart_1024k
+
+#forge:ores/tin
+- mekanism:tin_ore
+
+#byg:palo_verde_logs
+- byg:palo_verde_log
+- byg:stripped_palo_verde_log
+- byg:palo_verde_wood
+- byg:stripped_palo_verde_wood
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- pixelmon:blue_berry_wood_sign
+- pixelmon:green_berry_wood_sign
+- pixelmon:pink_berry_wood_sign
+- pixelmon:purple_berry_wood_sign
+- pixelmon:red_berry_wood_sign
+- pixelmon:yellow_berry_wood_sign
+- pixelmon:ultra_gingko_sign
+- pixelmon:ultra_elm_sign
+- pixelmon:ultra_jungle_sign
+
+#forge:nuggets/silicon
+- moremekanismprocessing:silicon_nugget?
+
+#byg:fir_logs
+- byg:fir_log
+- byg:stripped_fir_log
+- byg:fir_wood
+- byg:stripped_fir_wood
+
+#mekanismadditions:balloons
+- mekanismadditions:black_balloon
+- mekanismadditions:blue_balloon
+- mekanismadditions:green_balloon
+- mekanismadditions:cyan_balloon
+- mekanismadditions:dark_red_balloon
+- mekanismadditions:purple_balloon
+- mekanismadditions:orange_balloon
+- mekanismadditions:light_gray_balloon
+- mekanismadditions:gray_balloon
+- mekanismadditions:light_blue_balloon
+- mekanismadditions:lime_balloon
+- mekanismadditions:aqua_balloon
+- mekanismadditions:red_balloon
+- mekanismadditions:magenta_balloon
+- mekanismadditions:yellow_balloon
+- mekanismadditions:white_balloon
+- mekanismadditions:brown_balloon
+- mekanismadditions:pink_balloon
+
+#forge:storage_blocks/osmium
+- mekanism:block_osmium
+
+#mekanism:shards/amethyst
+- moremekanismprocessing:shard_amethyst?
+
+#mekanism:dirty_dusts/ruby
+- moremekanismprocessing:dirty_dust_ruby?
+
+#forge:wool
+- #forge:wool/white
+- #forge:wool/orange
+- #forge:wool/magenta
+- #forge:wool/light_blue
+- #forge:wool/yellow
+- #forge:wool/lime
+- #forge:wool/pink
+- #forge:wool/gray
+- #forge:wool/light_gray
+- #forge:wool/cyan
+- #forge:wool/purple
+- #forge:wool/blue
+- #forge:wool/brown
+- #forge:wool/green
+- #forge:wool/red
+- #forge:wool/black
+
+#forge:boots
+- byg:ametrine_boots
+
+#forge:fuels
+- #forge:fuels/bio
+
+#mekanism:shards/silicon
+- moremekanismprocessing:shard_silicon?
+
+#mekanism:dirty_dusts/coal
+- moremekanismprocessing:dirty_dust_coal?
+
+#forge:swords
+- byg:pendorite_sword
+- byg:pendorite_battleaxe
+
+#forge:storage_blocks/charcoal
+- mekanism:block_charcoal
+
+#refinedstorage:pattern_grid
+- refinedstorage:pink_pattern_grid
+- refinedstorage:gray_pattern_grid
+- refinedstorage:orange_pattern_grid
+- refinedstorage:cyan_pattern_grid
+- refinedstorage:magenta_pattern_grid
+- refinedstorage:pattern_grid
+- refinedstorage:light_gray_pattern_grid
+- refinedstorage:brown_pattern_grid
+- refinedstorage:black_pattern_grid
+- refinedstorage:white_pattern_grid
+- refinedstorage:lime_pattern_grid
+- refinedstorage:purple_pattern_grid
+- refinedstorage:red_pattern_grid
+- refinedstorage:green_pattern_grid
+- refinedstorage:blue_pattern_grid
+- refinedstorage:yellow_pattern_grid
+
+#byg:orange_dye
+- byg:orange_amaranth
+- byg:orange_daisy
+- byg:guzmania
+- byg:incan_lily
+- byg:california_poppy
+
+#mekanism:clumps/emerald
+- moremekanismprocessing:clump_emerald?
+
+#mekanism:configurators
+- #forge:wrenches
+- #forge:tools/wrench
+
+#pixelmon:cleaned_fossils
+- pixelmon:helix_fossil
+- pixelmon:dome_fossil
+- pixelmon:old_amber
+- pixelmon:root_fossil
+- pixelmon:claw_fossil
+- pixelmon:skull_fossil
+- pixelmon:armor_fossil
+- pixelmon:cover_fossil
+- pixelmon:plume_fossil
+- pixelmon:jaw_fossil
+- pixelmon:sail_fossil
+- pixelmon:bird_fossil
+- pixelmon:dino_fossil
+- pixelmon:drake_fossil
+- pixelmon:fish_fossil
+
+#pixelmon:berries/firmness/hard
+- pixelmon:cornn_berry
+- pixelmon:durin_berry
+- pixelmon:enigma_berry
+- pixelmon:hondew_berry
+- pixelmon:kasib_berry
+- pixelmon:kebia_berry
+- pixelmon:kelpsy_berry
+- pixelmon:kuo_berry
+- pixelmon:mago_berry
+- pixelmon:magost_berry
+- pixelmon:niniku_berry
+- pixelmon:persim_berry
+- pixelmon:pinap_berry
+- pixelmon:qualot_berry
+- pixelmon:rawst_berry
+- pixelmon:roseli_berry
+- pixelmon:strib_berry
+- pixelmon:wiki_berry
+
+#forge:fence_gates/plastic
+- mekanismadditions:black_plastic_fence_gate
+- mekanismadditions:blue_plastic_fence_gate
+- mekanismadditions:green_plastic_fence_gate
+- mekanismadditions:cyan_plastic_fence_gate
+- mekanismadditions:dark_red_plastic_fence_gate
+- mekanismadditions:purple_plastic_fence_gate
+- mekanismadditions:orange_plastic_fence_gate
+- mekanismadditions:light_gray_plastic_fence_gate
+- mekanismadditions:gray_plastic_fence_gate
+- mekanismadditions:light_blue_plastic_fence_gate
+- mekanismadditions:lime_plastic_fence_gate
+- mekanismadditions:aqua_plastic_fence_gate
+- mekanismadditions:red_plastic_fence_gate
+- mekanismadditions:magenta_plastic_fence_gate
+- mekanismadditions:yellow_plastic_fence_gate
+- mekanismadditions:white_plastic_fence_gate
+- mekanismadditions:brown_plastic_fence_gate
+- mekanismadditions:pink_plastic_fence_gate
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#refinedstorage:storage_blocks/items/4096k
+- extradisks:4096k_storage_block
+- extrastorage:block_4096k
+
+#refinedstorage:storage_blocks/items/262144k
+- extradisks:262144k_storage_block
+
+#refinedstorage:parts/items/262144k
+- extradisks:262144k_storage_part
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:storage_blocks/fluorite
+- mekanism:block_fluorite
+
+#forge:ingots/aluminum
+- moremekanismprocessing:aluminum_ingot?
+- pixelmon:aluminium_ingot
+
+#forge:ores/sulfur
+
+#mekanism:dirty_dusts/sapphire
+- moremekanismprocessing:dirty_dust_sapphire?
+
+#pixelmon:berries/juice/blue/1
+- pixelmon:oran_berry
+
+#fabric:hoes
+- byg:pendorite_hoe
+
+#pixelmon:berries/juice/blue/2
+- pixelmon:passho_berry
+- pixelmon:yache_berry
+- pixelmon:coba_berry
+
+#forge:fences/wooden
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+
+#forge:dusts/emerald
+- mekanism:dust_emerald
+- mekanism:dust_emerald?
+
+#pixelmon:berries/juice/blue/3
+- pixelmon:kelpsy_berry
+- pixelmon:apicot_berry
+- pixelmon:maranga_berry
+- pixelmon:rowap_berry
+
+#refinedstorage:disks/items/infinite
+- extradisks:infinite_storage_disk
+
+#forge:storage_blocks
+- #forge:storage_blocks/bronze
+- #forge:storage_blocks/charcoal
+- #forge:storage_blocks/refined_glowstone
+- #forge:storage_blocks/refined_obsidian
+- #forge:storage_blocks/steel
+- #forge:storage_blocks/fluorite
+- #forge:storage_blocks/osmium
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/tin
+- #forge:storage_blocks/lead
+- #forge:storage_blocks/uranium
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+- byg:ametrine_block
+- byg:pendorite_block
+- byg:anthracite_block
+- byg:lignite_block
+
+#mekanism:shards/aluminum
+- moremekanismprocessing:shard_aluminum?
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#forge:dusts/electrotine
+- moremekanismprocessing:dust_electrotine?
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- mekanism:ingot_osmium
+- mekanism:ingot_copper
+- mekanism:ingot_tin
+- mekanism:ingot_lead
+- mekanism:ingot_uranium
+- mekanism:ingot_bronze
+- mekanism:ingot_refined_obsidian
+- mekanism:ingot_refined_glowstone
+- mekanism:ingot_steel
+- byg:ametrine_gems
+- byg:pendorite_scraps
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#forge:ingots/brick
+- minecraft:brick
+
+#forge:plates/aluminum
+- pixelmon:aluminium_plate
+
+#forge:saplings
+- byg:aspen_sapling
+- byg:baobab_sapling
+- byg:blue_enchanted_sapling
+- byg:blue_spruce_sapling
+- byg:brown_birch_sapling
+- byg:brown_oak_sapling
+- byg:cika_sapling
+- byg:cypress_sapling
+- byg:ebony_sapling
+- byg:fir_sapling
+- byg:green_enchanted_sapling
+- byg:holly_sapling
+- byg:jacaranda_sapling
+- byg:indigo_jacaranda_sapling
+- byg:mahogany_sapling
+- byg:mangrove_sapling
+- byg:maple_sapling
+- byg:orange_birch_sapling
+- byg:orange_oak_sapling
+- byg:orange_spruce_sapling
+- byg:orchard_sapling
+- byg:palo_verde_sapling
+- byg:joshua_sapling
+- byg:yellow_spruce_sapling
+- byg:pine_sapling
+- byg:pink_cherry_sapling
+- byg:rainbow_eucalyptus_sapling
+- byg:red_birch_sapling
+- byg:red_maple_sapling
+- byg:red_oak_sapling
+- byg:red_spruce_sapling
+- byg:redwood_sapling
+- byg:silver_maple_sapling
+- byg:white_cherry_sapling
+- byg:willow_sapling
+- byg:witch_hazel_sapling
+- byg:yellow_birch_sapling
+- byg:zelkova_sapling
+- byg:skyris_sapling
+- byg:palm_sapling
+- byg:araucaria_sapling
+- byg:brown_zelkova_sapling
+- byg:lament_sapling
+- byg:withering_oak_sapling
+- byg:ether_sapling
+- byg:nightshade_sapling
+
+#refinedstorage:security_manager
+- refinedstorage:pink_security_manager
+- refinedstorage:gray_security_manager
+- refinedstorage:orange_security_manager
+- refinedstorage:cyan_security_manager
+- refinedstorage:magenta_security_manager
+- refinedstorage:security_manager
+- refinedstorage:light_gray_security_manager
+- refinedstorage:brown_security_manager
+- refinedstorage:black_security_manager
+- refinedstorage:white_security_manager
+- refinedstorage:lime_security_manager
+- refinedstorage:purple_security_manager
+- refinedstorage:red_security_manager
+- refinedstorage:green_security_manager
+- refinedstorage:blue_security_manager
+- refinedstorage:yellow_security_manager
+
+#forge:slabs/plastic
+- mekanismadditions:black_plastic_slab
+- mekanismadditions:blue_plastic_slab
+- mekanismadditions:green_plastic_slab
+- mekanismadditions:cyan_plastic_slab
+- mekanismadditions:dark_red_plastic_slab
+- mekanismadditions:purple_plastic_slab
+- mekanismadditions:orange_plastic_slab
+- mekanismadditions:light_gray_plastic_slab
+- mekanismadditions:gray_plastic_slab
+- mekanismadditions:light_blue_plastic_slab
+- mekanismadditions:lime_plastic_slab
+- mekanismadditions:aqua_plastic_slab
+- mekanismadditions:red_plastic_slab
+- mekanismadditions:magenta_plastic_slab
+- mekanismadditions:yellow_plastic_slab
+- mekanismadditions:white_plastic_slab
+- mekanismadditions:brown_plastic_slab
+- mekanismadditions:pink_plastic_slab
+
+#mekanism:dirty_dusts/peridot
+- moremekanismprocessing:dirty_dust_peridot?
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#forge:gems/sapphire
+- moremekanismprocessing:gem_sapphire?
+- pixelmon:sapphire
+
+#byg:withering_oak_logs
+- byg:withering_oak_log
+- byg:withering_oak_wood
+
+#pixelmon:berries/natural_gift/bug
+- pixelmon:figy_berry
+- pixelmon:cornn_berry
+- pixelmon:tanga_berry
+- pixelmon:enigma_berry
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- #forge:stairs/plastic
+- #forge:stairs/plastic/glow
+- #forge:stairs/plastic/transparent
+- create:granite_cobblestone_stairs
+- create:granite_bricks_stairs
+- create:fancy_granite_bricks_stairs
+- create:paved_granite_stairs
+- create:diorite_cobblestone_stairs
+- create:diorite_bricks_stairs
+- create:fancy_diorite_bricks_stairs
+- create:paved_diorite_stairs
+- create:andesite_cobblestone_stairs
+- create:andesite_bricks_stairs
+- create:fancy_andesite_bricks_stairs
+- create:paved_andesite_stairs
+- create:limestone_cobblestone_stairs
+- create:polished_limestone_stairs
+- create:limestone_bricks_stairs
+- create:fancy_limestone_bricks_stairs
+- create:paved_limestone_stairs
+- create:weathered_limestone_cobblestone_stairs
+- create:polished_weathered_limestone_stairs
+- create:weathered_limestone_bricks_stairs
+- create:fancy_weathered_limestone_bricks_stairs
+- create:paved_weathered_limestone_stairs
+- create:dolomite_cobblestone_stairs
+- create:polished_dolomite_stairs
+- create:dolomite_bricks_stairs
+- create:fancy_dolomite_bricks_stairs
+- create:paved_dolomite_stairs
+- create:gabbro_cobblestone_stairs
+- create:polished_gabbro_stairs
+- create:gabbro_bricks_stairs
+- create:fancy_gabbro_bricks_stairs
+- create:paved_gabbro_stairs
+- create:scoria_cobblestone_stairs
+- create:polished_scoria_stairs
+- create:scoria_bricks_stairs
+- create:fancy_scoria_bricks_stairs
+- create:paved_scoria_stairs
+- create:dark_scoria_cobblestone_stairs
+- create:polished_dark_scoria_stairs
+- create:dark_scoria_bricks_stairs
+- create:fancy_dark_scoria_bricks_stairs
+- create:paved_dark_scoria_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:dacite_cobblestone_stairs
+- byg:mossy_stone_stairs
+- byg:rocky_stone_stairs
+- byg:scoria_stone_stairs
+- byg:scoria_cobblestone_stairs
+- byg:scoria_stonebrick_stairs
+- byg:soapstone_stairs
+- byg:polished_soapstone_stairs
+- byg:soapstone_brick_stairs
+- byg:soapstone_tile_stairs
+- byg:red_rock_stairs
+- byg:red_rock_brick_stairs
+- byg:mossy_red_rock_brick_stairs
+- byg:cracked_red_rock_brick_stairs
+- byg:chiseled_red_rock_brick_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- byg:ether_stone_stairs
+- byg:carved_ether_stone_stairs
+- byg:cobbled_ether_stone_stairs
+- byg:purpur_stone_stairs
+- byg:imparius_stairs
+- byg:chiseled_fungal_imparius_stairs
+
+#refinedstorage:storage_blocks/items/256k
+- extradisks:256k_storage_block
+- extrastorage:block_256k
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- pixelmon:berry_log
+- pixelmon:apricorn_log
+- pixelmon:ultra_jungle_log
+- pixelmon:ultra_jungle_wood
+- pixelmon:stripped_ultra_jungle_log
+- pixelmon:stripped_ultra_jungle_wood
+- pixelmon:ultra_gingko_log
+- pixelmon:ultra_gingko_wood
+- pixelmon:stripped_ultra_gingko_log
+- pixelmon:stripped_ultra_gingko_wood
+- pixelmon:ultra_elm_log
+- pixelmon:ultra_elm_wood
+- pixelmon:stripped_ultra_elm_log
+- pixelmon:stripped_ultra_elm_wood
+- #byg:aspen_logs
+- #byg:baobab_logs
+- #byg:blue_enchanted_logs
+- #byg:cherry_logs
+- #byg:cika_logs
+- #byg:cypress_logs
+- #byg:ebony_logs
+- #byg:fir_logs
+- #byg:green_enchanted_logs
+- #byg:holly_logs
+- #byg:jacaranda_logs
+- #byg:mahogany_logs
+- #byg:mangrove_logs
+- #byg:maple_logs
+- #byg:palo_verde_logs
+- #byg:pine_logs
+- #byg:rainbow_eucalyptus_logs
+- #byg:redwood_logs
+- #byg:skyris_logs
+- #byg:willow_logs
+- #byg:witch_hazel_logs
+- #byg:zelkova_logs
+- #byg:sythian_stems
+- #byg:embur_pedus
+- #byg:palm_logs
+- #byg:lament_logs
+- #byg:bulbis_stems
+- #byg:ether_logs
+- #byg:nightshade_logs
+- #byg:withering_oak_logs
+- byg:imbued_nightshade_log
+- #byg:imparius_stems
+
+#pixelmon:poke_sand
+- pixelmon:poke_sand_corner1
+- pixelmon:poke_sand_corner2
+- pixelmon:poke_sand_corner3
+- pixelmon:poke_sand_corner4
+- pixelmon:poke_sand_side1
+- pixelmon:poke_sand_side2
+- pixelmon:poke_sand_side3
+- pixelmon:poke_sand_side4
+- pixelmon:poke_sand
+
+#pixelmon:berries/natural_gift/normal
+- pixelmon:chilan_berry
+
+#forge:ores/dilithium
+
+#pixelmon:berries/natural_gift/ice
+- pixelmon:aspear_berry
+- pixelmon:pomeg_berry
+- pixelmon:yache_berry
+- pixelmon:ganlon_berry
+
+#forge:gems/green_sapphire
+- moremekanismprocessing:gem_green_sapphire?
+
+#forge:dusts/sapphire
+- moremekanismprocessing:dust_sapphire?
+
+#pixelmon:berries/firmness/super_hard
+- pixelmon:aguav_berry
+- pixelmon:aspear_berry
+- pixelmon:babiri_berry
+- pixelmon:chesto_berry
+- pixelmon:colbur_berry
+- pixelmon:custap_berry
+- pixelmon:lum_berry
+- pixelmon:nomel_berry
+- pixelmon:nutpea_berry
+- pixelmon:occa_berry
+- pixelmon:oran_berry
+- pixelmon:pumkin_berry
+- pixelmon:starf_berry
+- pixelmon:touga_berry
+- pixelmon:wepear_berry
+
+#refinedstorage:storage_blocks
+- #refinedstorage:storage_blocks/items
+- #refinedstorage:storage_blocks/fluids
+- #refinedstorage:storage_blocks/items
+- #refinedstorage:storage_blocks/fluids
+
+#mekanism:shards/quartz
+- moremekanismprocessing:shard_quartz?
+
+#mekanism:shards/electrotine
+- moremekanismprocessing:shard_electrotine?
+
+#refinedstorage:parts/items/1048576k
+- extradisks:1048576k_storage_part
+
+#pixelmon:berries/natural_gift/steel
+- pixelmon:razz_berry
+- pixelmon:pamtre_berry
+- pixelmon:babiri_berry
+
+#mekanism:crystals/tin
+- mekanism:crystal_tin
+
+#mekanism:dirty_dusts/aluminum
+- moremekanismprocessing:dirty_dust_aluminum?
+
+#mekanism:dirty_dusts/green_sapphire
+- moremekanismprocessing:dirty_dust_green_sapphire?
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:salt
+- #forge:dusts/salt
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#botanypots:botany_pots
+- botanypots:botany_pot
+- botanypots:white_botany_pot
+- botanypots:orange_botany_pot
+- botanypots:magenta_botany_pot
+- botanypots:light_blue_botany_pot
+- botanypots:yellow_botany_pot
+- botanypots:lime_botany_pot
+- botanypots:pink_botany_pot
+- botanypots:gray_botany_pot
+- botanypots:light_gray_botany_pot
+- botanypots:cyan_botany_pot
+- botanypots:purple_botany_pot
+- botanypots:blue_botany_pot
+- botanypots:brown_botany_pot
+- botanypots:green_botany_pot
+- botanypots:red_botany_pot
+- botanypots:black_botany_pot
+- botanypots:hopper_botany_pot
+- botanypots:hopper_white_botany_pot
+- botanypots:hopper_orange_botany_pot
+- botanypots:hopper_magenta_botany_pot
+- botanypots:hopper_light_blue_botany_pot
+- botanypots:hopper_yellow_botany_pot
+- botanypots:hopper_lime_botany_pot
+- botanypots:hopper_pink_botany_pot
+- botanypots:hopper_gray_botany_pot
+- botanypots:hopper_light_gray_botany_pot
+- botanypots:hopper_cyan_botany_pot
+- botanypots:hopper_purple_botany_pot
+- botanypots:hopper_blue_botany_pot
+- botanypots:hopper_brown_botany_pot
+- botanypots:hopper_green_botany_pot
+- botanypots:hopper_red_botany_pot
+- botanypots:hopper_black_botany_pot
+
+#pixelmon:pcs
+- pixelmon:white_pc
+- pixelmon:orange_pc
+- pixelmon:magenta_pc
+- pixelmon:light_blue_pc
+- pixelmon:yellow_pc
+- pixelmon:lime_pc
+- pixelmon:pink_pc
+- pixelmon:gray_pc
+- pixelmon:light_gray_pc
+- pixelmon:cyan_pc
+- pixelmon:purple_pc
+- pixelmon:blue_pc
+- pixelmon:brown_pc
+- pixelmon:green_pc
+- pixelmon:red_pc
+- pixelmon:black_pc
+
+#pixelmon:berries/flavor/dry
+- pixelmon:chesto_berry
+- pixelmon:oran_berry
+- pixelmon:persim_berry
+- pixelmon:lum_berry
+- pixelmon:sitrus_berry
+- pixelmon:wiki_berry
+- pixelmon:razz_berry
+- pixelmon:bluk_berry
+- pixelmon:kelpsy_berry
+- pixelmon:hondew_berry
+- pixelmon:grepa_berry
+- pixelmon:tamato_berry
+- pixelmon:cornn_berry
+- pixelmon:spelon_berry
+- pixelmon:pamtre_berry
+- pixelmon:passho_berry
+- pixelmon:yache_berry
+- pixelmon:kebia_berry
+- pixelmon:coba_berry
+- pixelmon:charti_berry
+- pixelmon:kasib_berry
+- pixelmon:babiri_berry
+- pixelmon:chilan_berry
+- pixelmon:liechi_berry
+- pixelmon:ganlon_berry
+- pixelmon:apicot_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:pumkin_berry
+- pixelmon:drash_berry
+- pixelmon:eggant_berry
+- pixelmon:strib_berry
+- pixelmon:nutpea_berry
+- pixelmon:ginema_berry
+- pixelmon:kuo_berry
+- pixelmon:yago_berry
+- pixelmon:touga_berry
+- pixelmon:niniku_berry
+- pixelmon:topo_berry
+- pixelmon:enigma_berry
+- pixelmon:micle_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#pixelmon:mugs
+- pixelmon:mug_base
+- pixelmon:mug_ball
+- pixelmon:mug_pika
+
+#mekanism:enriched/obsidian
+- mekanism:enriched_refined_obsidian
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+- byg:white_sand
+- byg:black_sand
+- byg:blue_sand
+- byg:pink_sand
+- byg:purple_sand
+- byg:end_sand
+
+#pixelmon:berries/flavor/bitter
+- pixelmon:rawst_berry
+- pixelmon:leppa_berry
+- pixelmon:oran_berry
+- pixelmon:lum_berry
+- pixelmon:sitrus_berry
+- pixelmon:nanab_berry
+- pixelmon:wepear_berry
+- pixelmon:pomeg_berry
+- pixelmon:kelpsy_berry
+- pixelmon:hondew_berry
+- pixelmon:magost_berry
+- pixelmon:rabuta_berry
+- pixelmon:watmel_berry
+- pixelmon:durin_berry
+- pixelmon:passho_berry
+- pixelmon:rindo_berry
+- pixelmon:chople_berry
+- pixelmon:coba_berry
+- pixelmon:haban_berry
+- pixelmon:colbur_berry
+- pixelmon:roseli_berry
+- pixelmon:ganlon_berry
+- pixelmon:salac_berry
+- pixelmon:petaya_berry
+- pixelmon:lansat_berry
+- pixelmon:starf_berry
+- pixelmon:custap_berry
+- pixelmon:jaboca_berry
+- pixelmon:kee_berry
+- pixelmon:maranga_berry
+- pixelmon:aguav_berry
+
+#pixelmon:armchairs
+- pixelmon:white_armchair
+- pixelmon:orange_armchair
+- pixelmon:magenta_armchair
+- pixelmon:light_blue_armchair
+- pixelmon:yellow_armchair
+- pixelmon:lime_armchair
+- pixelmon:pink_armchair
+- pixelmon:gray_armchair
+- pixelmon:light_gray_armchair
+- pixelmon:cyan_armchair
+- pixelmon:purple_armchair
+- pixelmon:blue_armchair
+- pixelmon:brown_armchair
+- pixelmon:green_armchair
+- pixelmon:red_armchair
+- pixelmon:black_armchair
+
+#forge:dyes/yellow
+- mekanism:dust_sulfur
+- minecraft:yellow_dye
+
+#mekanism:shards/sapphire
+- moremekanismprocessing:shard_sapphire?
+
+#forge:dusts/steel
+- mekanism:dust_steel
+
+#fabric:chestplates
+- byg:ametrine_chestplate
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+
+#forge:ingots/zinc
+- moremekanismprocessing:zinc_ingot?
+- create:zinc_ingot
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:rods
+- #forge:rods/plastic
+- #forge:rods/blaze
+- #forge:rods/wooden
+- createaddition:iron_rod
+- createaddition:copper_rod
+- createaddition:gold_rod
+- createaddition:brass_rod
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#forge:wires/iron
+- createaddition:iron_wire
+
+#mekanism:shards/silver
+- moremekanismprocessing:shard_silver?
+
+#pixelmon:water_floats
+- pixelmon:white_water_float
+- pixelmon:orange_water_float
+- pixelmon:magenta_water_float
+- pixelmon:light_blue_water_float
+- pixelmon:yellow_water_float
+- pixelmon:lime_water_float
+- pixelmon:pink_water_float
+- pixelmon:gray_water_float
+- pixelmon:light_gray_water_float
+- pixelmon:cyan_water_float
+- pixelmon:purple_water_float
+- pixelmon:blue_water_float
+- pixelmon:brown_water_float
+- pixelmon:green_water_float
+- pixelmon:red_water_float
+- pixelmon:black_water_float
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- pixelmon:blue_berry_wood_stairs
+- pixelmon:green_berry_wood_stairs
+- pixelmon:pink_berry_wood_stairs
+- pixelmon:purple_berry_wood_stairs
+- pixelmon:red_berry_wood_stairs
+- pixelmon:yellow_berry_wood_stairs
+- pixelmon:ultra_gingko_stairs
+- pixelmon:ultra_elm_stairs
+- pixelmon:ultra_jungle_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- byg:imparius_stairs
+
+#mekanism:clumps/dilithium
+- moremekanismprocessing:clump_dilithium?
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- pixelmon:blue_berry_wood_button
+- pixelmon:green_berry_wood_button
+- pixelmon:pink_berry_wood_button
+- pixelmon:purple_berry_wood_button
+- pixelmon:red_berry_wood_button
+- pixelmon:yellow_berry_wood_button
+- pixelmon:ultra_gingko_button
+- pixelmon:ultra_elm_button
+- pixelmon:ultra_jungle_button
+- byg:aspen_button
+- byg:baobab_button
+- byg:blue_enchanted_button
+- byg:cherry_button
+- byg:cika_button
+- byg:cypress_button
+- byg:ebony_button
+- byg:fir_button
+- byg:green_enchanted_button
+- byg:holly_button
+- byg:jacaranda_button
+- byg:mahogany_button
+- byg:mangrove_button
+- byg:maple_button
+- byg:pine_button
+- byg:rainbow_eucalyptus_button
+- byg:redwood_button
+- byg:skyris_button
+- byg:willow_button
+- byg:witch_hazel_button
+- byg:zelkova_button
+- byg:sythian_button
+- byg:embur_button
+- byg:palm_button
+- byg:lament_button
+- byg:ether_button
+- byg:bulbis_button
+- byg:nightshade_button
+- byg:imparius_button
+
+#forge:storage_blocks/anthracite
+- byg:anthracite_block
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#mekanism:crystals/cobalt
+- moremekanismprocessing:crystal_cobalt?
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#refinedstorage:crafting_tables
+- minecraft:crafting_table
+
+#byg:cypress_logs
+- byg:cypress_log
+- byg:stripped_cypress_log
+- byg:cypress_wood
+- byg:stripped_cypress_wood
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#forge:ingots/cobalt
+- moremekanismprocessing:cobalt_ingot?
+
+#refinedstorage:disks
+- #refinedstorage:disks/items
+- #refinedstorage:disks/fluids
+- #refinedstorage:disks/items
+- #refinedstorage:disks/fluids
+
+#mekanism:enriched
+- #mekanism:enriched/carbon
+- #mekanism:enriched/diamond
+- #mekanism:enriched/obsidian
+- #mekanism:enriched/redstone
+- #mekanism:enriched/gold
+- #mekanism:enriched/tin
+
+#mekanism:crystals/crimson_iron
+- moremekanismprocessing:crystal_crimson_iron?
+
+#pixelmon:berries/firmness/very_soft
+- pixelmon:belue_berry
+- pixelmon:charti_berry
+- pixelmon:chilan_berry
+- pixelmon:pamtre_berry
+- pixelmon:pecha_berry
+- pixelmon:rowap_berry
+- pixelmon:tanga_berry
+- pixelmon:wacan_berry
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#forge:dusts/draconium
+- moremekanismprocessing:dust_draconium?
+
+#mekanism:dirty_dusts/redstone
+- moremekanismprocessing:dirty_dust_redstone?
+
+#forge:dusts/diamond
+- mekanism:dust_diamond
+- mekanism:dust_diamond?
+- createaddition:diamond_grit
+
+#mekanism:alloys/reinforced
+- #forge:alloys/elite
+
+#forge:plates/iron
+- create:iron_sheet
+
+#forge:nuggets/tungsten
+- moremekanismprocessing:tungsten_nugget?
+
+#mekanism:crystals/desh
+- moremekanismprocessing:crystal_desh?
+
+#forge:circuits/ultimate
+- mekanism:ultimate_control_circuit
+
+#forge:dusts/charcoal
+- mekanism:dust_charcoal
+
+#mekanism:dirty_dusts/desh
+- moremekanismprocessing:dirty_dust_desh?
+
+#byg:pink_dye
+- byg:osiria_rose
+- byg:japanese_orchid
+- byg:silver_vase_flower
+- byg:daffodil
+- byg:bistort
+- byg:firecracker_flower_bush
+- byg:peach_leather_flower
+- byg:pink_allium
+- byg:pink_allium_flower_bush
+- byg:pink_anemone
+- byg:pink_daffodil
+- byg:pink_orchid
+- byg:tall_pink_allium
+
+#forge:nuggets/silver
+- moremekanismprocessing:silver_nugget?
+
+#mekanism:shards/crimson_iron
+- moremekanismprocessing:shard_crimson_iron?
+
+#mekanism:dirty_dusts/draconium
+- moremekanismprocessing:dirty_dust_draconium?
+
+#refinedstorage:crafting_grid
+- refinedstorage:pink_crafting_grid
+- refinedstorage:gray_crafting_grid
+- refinedstorage:orange_crafting_grid
+- refinedstorage:cyan_crafting_grid
+- refinedstorage:magenta_crafting_grid
+- refinedstorage:crafting_grid
+- refinedstorage:light_gray_crafting_grid
+- refinedstorage:brown_crafting_grid
+- refinedstorage:black_crafting_grid
+- refinedstorage:white_crafting_grid
+- refinedstorage:lime_crafting_grid
+- refinedstorage:purple_crafting_grid
+- refinedstorage:red_crafting_grid
+- refinedstorage:green_crafting_grid
+- refinedstorage:blue_crafting_grid
+- refinedstorage:yellow_crafting_grid
+
+#byg:bulbis_stems
+- byg:bulbis_stem
+- byg:stripped_bulbis_stem
+- byg:bulbis_wood
+- byg:stripped_bulbis_wood
+
+#mekanism:clumps/copper
+- mekanism:clump_copper
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- byg:foxglove
+- byg:delphinium
+- byg:japanese_orchid
+- byg:azalea
+- byg:tall_allium
+- byg:tall_pink_allium
+
+#refinedstorage:parts/fluids/16384k
+- extradisks:16384k_fluid_storage_part
+- extrastorage:storagepart_16384k_fluid
+
+#forge:sand/black
+- byg:black_sand
+
+#refinedstorage:storage_blocks/fluids/16384k
+- extradisks:16384k_fluid_storage_block
+- extrastorage:block_16384k_fluid
+
+#mekanism:dirty_dusts/niter
+- moremekanismprocessing:dirty_dust_niter?
+
+#forge:bookshelves
+- minecraft:bookshelf
+- byg:aspen_bookshelf
+- byg:baobab_bookshelf
+- byg:blue_enchanted_bookshelf
+- byg:cherry_bookshelf
+- byg:cika_bookshelf
+- byg:cypress_bookshelf
+- byg:ebony_bookshelf
+- byg:fir_bookshelf
+- byg:green_enchanted_bookshelf
+- byg:holly_bookshelf
+- byg:jacaranda_bookshelf
+- byg:mahogany_bookshelf
+- byg:mangrove_bookshelf
+- byg:maple_bookshelf
+- byg:pine_bookshelf
+- byg:rainbow_eucalyptus_bookshelf
+- byg:redwood_bookshelf
+- byg:skyris_bookshelf
+- byg:willow_bookshelf
+- byg:witch_hazel_bookshelf
+- byg:zelkova_bookshelf
+- byg:sythian_bookshelf
+- byg:embur_bookshelf
+- byg:palm_bookshelf
+- byg:lament_bookshelf
+- byg:bulbis_bookshelf
+- byg:ether_bookshelf
+- byg:nightshade_bookshelf
+- byg:imparius_bookshelf
+
+#pixelmon:berries/natural_gift/grass
+- pixelmon:rawst_berry
+- pixelmon:pinap_berry
+- pixelmon:rindo_berry
+- pixelmon:liechi_berry
+
+#refinedstorage:disks/fluids/262144k
+- extradisks:262144k_fluid_storage_disk
+- extrastorage:disk_262144k_fluid
+
+#forge:ores/platinum
+- pixelmon:platinum_ore
+
+#forge:dusts/azure_silver
+- moremekanismprocessing:dust_azure_silver?
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#pixelmon:berries/natural_gift/ground
+- pixelmon:persim_berry
+- pixelmon:hondew_berry
+- pixelmon:shuca_berry
+- pixelmon:apicot_berry
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#forge:fuels/bio
+- mekanism:bio_fuel
+
+#forge:dusts/obsidian
+- mekanism:dust_obsidian
+- create:powdered_obsidian
+
+#forge:netherrack
+- minecraft:netherrack
+- byg:overgrown_netherrack
+- byg:overgrown_crimson_blackstone
+- byg:blue_netherrack
+- byg:brimstone
+- byg:embur_nylium
+- byg:sythian_nylium
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:rods/copper
+- createaddition:copper_rod
+
+#mekanism:crystals/nickel
+- moremekanismprocessing:crystal_nickel?
+
+#forge:eggs
+- minecraft:egg
+
+#forge:batteries
+- mekanism:energy_tablet
+
+#mekanism:shards/iridium
+- moremekanismprocessing:shard_iridium?
+
+#forge:wires/copper
+- createaddition:copper_wire
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#mekanism:clumps/desh
+- moremekanismprocessing:clump_desh?
+
+#mekanism:clumps/amethyst
+- moremekanismprocessing:clump_amethyst?
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#mekanism:dirty_dusts/bort
+- moremekanismprocessing:dirty_dust_bort?
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:glass/colorless
+- minecraft:glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+
+#refinedstorage:disks/fluids/16384k
+- extradisks:16384k_fluid_storage_disk
+- extrastorage:disk_16384k_fluid
+
+#pixelmon:berries/juice/pink/3
+- pixelmon:mago_berry
+- pixelmon:petaya_berry
+- pixelmon:roseli_berry
+
+#forge:dusts/silicon
+- moremekanismprocessing:dust_silicon?
+
+#mekanism:clumps/azure_silver
+- moremekanismprocessing:clump_azure_silver?
+
+#pixelmon:berries/juice/pink/2
+- pixelmon:persim_berry
+
+#forge:naquadria
+- mekanismmatter:naquadria
+
+#pixelmon:berries/juice/pink/1
+- pixelmon:pecha_berry
+- pixelmon:nanab_berry
+- pixelmon:magost_berry
+- pixelmon:watmel_berry
+
+#forge:nuggets/aluminum
+- moremekanismprocessing:aluminum_nugget?
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:ingots/draconium
+- moremekanismprocessing:draconium_ingot?
+
+#fabric:leggings
+- byg:ametrine_leggings
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#forge:dusts/zinc
+- moremekanismprocessing:dust_zinc?
+
+#refinedstorage:storage_blocks/items/infinite
+- extradisks:infinite_storage_block
+
+#mekanism:clumps/nickel
+- moremekanismprocessing:clump_nickel?
+
+#forge:yellow_cake_uranium
+- mekanism:yellow_cake_uranium
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#mekanism:crystals/azure_silver
+- moremekanismprocessing:crystal_azure_silver?
+
+#forge:ingots/tin
+- mekanism:ingot_tin
+
+#fabric:shovels
+- byg:pendorite_shovel
+
+#mekanism:dirty_dusts/silver
+- moremekanismprocessing:dirty_dust_silver?
+
+#pixelmon:berries/juice/yellow/3
+- pixelmon:iapapa_berry
+- pixelmon:qualot_berry
+- pixelmon:grepa_berry
+- pixelmon:kee_berry
+- pixelmon:jaboca_berry
+
+#pixelmon:berries/juice/yellow/2
+- pixelmon:sitrus_berry
+- pixelmon:wacan_berry
+- pixelmon:shuca_berry
+- pixelmon:charti_berry
+- pixelmon:chilan_berry
+
+#pixelmon:berries/juice/yellow/1
+- pixelmon:aspear_berry
+- pixelmon:pinap_berry
+- pixelmon:nomel_berry
+
+#mekanism:crystals/zinc
+- moremekanismprocessing:crystal_zinc?
+
+#byg:double_blue_dye
+- byg:azalea
+- byg:delphinium
+
+#refinedstorage:disks/items/4096k
+- extradisks:4096k_storage_disk
+- extrastorage:disk_4096k
+
+#refinedstorage:storage_blocks/fluids/262144k
+- extradisks:262144k_fluid_storage_block
+- extrastorage:block_262144k_fluid
+
+#mekanism:clumps/crimson_iron
+- moremekanismprocessing:clump_crimson_iron?
+
+#forge:bones
+- minecraft:bone
+
+#pixelmon:berries/juice/green
+- #pixelmon:berries/juice/green/1
+- #pixelmon:berries/juice/green/2
+- #pixelmon:berries/juice/green/3
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#forge:sand/pink
+- byg:pink_sand
+
+#mekanism:colorable/glass
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:ores/fluorite
+- mekanism:fluorite_ore
+
+#forge:dusts/iron
+- mekanism:dust_iron
+
+#mekanism:colorable/concrete
+- minecraft:white_concrete
+- minecraft:orange_concrete
+- minecraft:magenta_concrete
+- minecraft:light_blue_concrete
+- minecraft:yellow_concrete
+- minecraft:lime_concrete
+- minecraft:pink_concrete
+- minecraft:gray_concrete
+- minecraft:light_gray_concrete
+- minecraft:cyan_concrete
+- minecraft:purple_concrete
+- minecraft:blue_concrete
+- minecraft:brown_concrete
+- minecraft:green_concrete
+- minecraft:red_concrete
+- minecraft:black_concrete
+
+#mekanismadditions:plastic_blocks/slick
+- mekanismadditions:black_slick_plastic
+- mekanismadditions:blue_slick_plastic
+- mekanismadditions:green_slick_plastic
+- mekanismadditions:cyan_slick_plastic
+- mekanismadditions:dark_red_slick_plastic
+- mekanismadditions:purple_slick_plastic
+- mekanismadditions:orange_slick_plastic
+- mekanismadditions:light_gray_slick_plastic
+- mekanismadditions:gray_slick_plastic
+- mekanismadditions:light_blue_slick_plastic
+- mekanismadditions:lime_slick_plastic
+- mekanismadditions:aqua_slick_plastic
+- mekanismadditions:red_slick_plastic
+- mekanismadditions:magenta_slick_plastic
+- mekanismadditions:yellow_slick_plastic
+- mekanismadditions:white_slick_plastic
+- mekanismadditions:brown_slick_plastic
+- mekanismadditions:pink_slick_plastic
+
+#refinedstorage:network_receiver
+- refinedstorage:pink_network_receiver
+- refinedstorage:gray_network_receiver
+- refinedstorage:orange_network_receiver
+- refinedstorage:cyan_network_receiver
+- refinedstorage:magenta_network_receiver
+- refinedstorage:network_receiver
+- refinedstorage:light_gray_network_receiver
+- refinedstorage:brown_network_receiver
+- refinedstorage:black_network_receiver
+- refinedstorage:white_network_receiver
+- refinedstorage:lime_network_receiver
+- refinedstorage:purple_network_receiver
+- refinedstorage:red_network_receiver
+- refinedstorage:green_network_receiver
+- refinedstorage:blue_network_receiver
+- refinedstorage:yellow_network_receiver
+
+#mekanism:clumps/silicon
+- moremekanismprocessing:clump_silicon?
+
+#refinedstorage:wireless_transmitter
+- refinedstorage:pink_wireless_transmitter
+- refinedstorage:gray_wireless_transmitter
+- refinedstorage:orange_wireless_transmitter
+- refinedstorage:cyan_wireless_transmitter
+- refinedstorage:magenta_wireless_transmitter
+- refinedstorage:wireless_transmitter
+- refinedstorage:light_gray_wireless_transmitter
+- refinedstorage:brown_wireless_transmitter
+- refinedstorage:black_wireless_transmitter
+- refinedstorage:white_wireless_transmitter
+- refinedstorage:lime_wireless_transmitter
+- refinedstorage:purple_wireless_transmitter
+- refinedstorage:red_wireless_transmitter
+- refinedstorage:green_wireless_transmitter
+- refinedstorage:blue_wireless_transmitter
+- refinedstorage:yellow_wireless_transmitter
+
+#forge:ingots/steel
+- mekanism:ingot_steel
+
+#byg:nightshade_logs
+- byg:nightshade_log
+- byg:stripped_nightshade_log
+- byg:nightshade_wood
+- byg:stripped_nightshade_wood
+
+#mekanism:dirty_dusts/dilithium
+- moremekanismprocessing:dirty_dust_dilithium?
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#mekanism:shards/lithium
+- moremekanismprocessing:shard_lithium?
+
+#forge:storage_blocks/tin
+- mekanism:block_tin
+
+#mekanism:shards/tungsten
+- moremekanismprocessing:shard_tungsten?
+
+#pixelmon:uncleaned_fossils
+- pixelmon:covered_fossil_0
+- pixelmon:covered_fossil_1
+- pixelmon:covered_fossil_2
+- pixelmon:covered_fossil_3
+- pixelmon:covered_fossil_4
+- pixelmon:covered_fossil_5
+- pixelmon:covered_fossil_6
+- pixelmon:covered_fossil_7
+- pixelmon:covered_fossil_8
+- pixelmon:covered_fossil_9
+- pixelmon:covered_fossil_10
+- pixelmon:covered_fossil_11
+- pixelmon:covered_fossil_12
+- pixelmon:covered_fossil_13
+- pixelmon:covered_fossil_14
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#mekanism:clumps/cobalt
+- moremekanismprocessing:clump_cobalt?
+
+#forge:chestplates
+- byg:ametrine_chestplate
+
+#mekanismadditions:glow_panels
+- mekanismadditions:black_glow_panel
+- mekanismadditions:blue_glow_panel
+- mekanismadditions:green_glow_panel
+- mekanismadditions:cyan_glow_panel
+- mekanismadditions:dark_red_glow_panel
+- mekanismadditions:purple_glow_panel
+- mekanismadditions:orange_glow_panel
+- mekanismadditions:light_gray_glow_panel
+- mekanismadditions:gray_glow_panel
+- mekanismadditions:light_blue_glow_panel
+- mekanismadditions:lime_glow_panel
+- mekanismadditions:aqua_glow_panel
+- mekanismadditions:red_glow_panel
+- mekanismadditions:magenta_glow_panel
+- mekanismadditions:yellow_glow_panel
+- mekanismadditions:white_glow_panel
+- mekanismadditions:brown_glow_panel
+- mekanismadditions:pink_glow_panel
+
+#mekanism:crystals/green_sapphire
+- moremekanismprocessing:crystal_green_sapphire?
+
+#forge:nuggets/lithium
+- moremekanismprocessing:lithium_nugget?
+
+#refinedstorage:parts/fluids/1048576k
+- extradisks:1048576k_fluid_storage_part
+- extrastorage:storagepart_1048576k_fluid
+
+#forge:ores/naquadah
+- mekanismmatter:naquadah_ore
+
+#mekanism:shards/coal
+- moremekanismprocessing:shard_coal?
+
+#refinedstorage:silicon
+- refinedstorage:silicon
+
+#mekanism:dirty_dusts/sulfur
+- moremekanismprocessing:dirty_dust_sulfur?
+
+#mekanism:crystals/ruby
+- moremekanismprocessing:crystal_ruby?
+
+#forge:wool/green
+- minecraft:green_wool
+
+#refinedstorage:crafter_manager
+- refinedstorage:pink_crafter_manager
+- refinedstorage:gray_crafter_manager
+- refinedstorage:orange_crafter_manager
+- refinedstorage:cyan_crafter_manager
+- refinedstorage:magenta_crafter_manager
+- refinedstorage:crafter_manager
+- refinedstorage:light_gray_crafter_manager
+- refinedstorage:brown_crafter_manager
+- refinedstorage:black_crafter_manager
+- refinedstorage:white_crafter_manager
+- refinedstorage:lime_crafter_manager
+- refinedstorage:purple_crafter_manager
+- refinedstorage:red_crafter_manager
+- refinedstorage:green_crafter_manager
+- refinedstorage:blue_crafter_manager
+- refinedstorage:yellow_crafter_manager
+
+#pixelmon:berry_planks
+- pixelmon:red_berry_wood_planks
+- pixelmon:purple_berry_wood_planks
+- pixelmon:pink_berry_wood_planks
+- pixelmon:green_berry_wood_planks
+- pixelmon:yellow_berry_wood_planks
+- pixelmon:blue_berry_wood_planks
+
+#refinedstorage:storage_blocks/items/65536k
+- extradisks:65536k_storage_block
+
+#mekanism:dirty_dusts/cobalt
+- moremekanismprocessing:dirty_dust_cobalt?
+
+#refinedstorage:parts
+- #refinedstorage:parts/items
+- #refinedstorage:parts/fluids
+- #refinedstorage:parts/items
+- #refinedstorage:parts/fluids
+
+#forge:feathers
+- minecraft:feather
+
+#byg:cyan_dye
+- byg:cyan_amaranth
+- byg:cyan_rose
+- byg:cyan_tulip
+- byg:winter_cyclamen
+
+#forge:fences/plastic
+- mekanismadditions:black_plastic_fence
+- mekanismadditions:blue_plastic_fence
+- mekanismadditions:green_plastic_fence
+- mekanismadditions:cyan_plastic_fence
+- mekanismadditions:dark_red_plastic_fence
+- mekanismadditions:purple_plastic_fence
+- mekanismadditions:orange_plastic_fence
+- mekanismadditions:light_gray_plastic_fence
+- mekanismadditions:gray_plastic_fence
+- mekanismadditions:light_blue_plastic_fence
+- mekanismadditions:lime_plastic_fence
+- mekanismadditions:aqua_plastic_fence
+- mekanismadditions:red_plastic_fence
+- mekanismadditions:magenta_plastic_fence
+- mekanismadditions:yellow_plastic_fence
+- mekanismadditions:white_plastic_fence
+- mekanismadditions:brown_plastic_fence
+- mekanismadditions:pink_plastic_fence
+
+#forge:dusts/silver
+- moremekanismprocessing:dust_silver?
+
+#forge:nuggets/iridium
+- moremekanismprocessing:iridium_nugget?
+
+#forge:string
+- minecraft:string
+
+#refinedstorage:disks/items/16384k
+- extradisks:16384k_storage_disk
+- extrastorage:disk_16384k
+
+#mekanism:shards/ruby
+- moremekanismprocessing:shard_ruby?
+
+#mekanism:crystals/coal
+- moremekanismprocessing:crystal_coal?
+
+#forge:silicon
+- refinedstorage:silicon
+
+#forge:storage_blocks/lignite
+- byg:lignite_block
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- pixelmon:berry_leaves_cheri
+- pixelmon:berry_leaves_chesto
+- pixelmon:berry_leaves_pecha
+- pixelmon:berry_leaves_rawst
+- pixelmon:berry_leaves_aspear
+- pixelmon:berry_leaves_leppa
+- pixelmon:berry_leaves_oran
+- pixelmon:berry_leaves_persim
+- pixelmon:berry_leaves_lum
+- pixelmon:berry_leaves_sitrus
+- pixelmon:berry_leaves_figy
+- pixelmon:berry_leaves_wiki
+- pixelmon:berry_leaves_mago
+- pixelmon:berry_leaves_iapapa
+- pixelmon:berry_leaves_razz
+- pixelmon:berry_leaves_bluk
+- pixelmon:berry_leaves_nanab
+- pixelmon:berry_leaves_wepear
+- pixelmon:berry_leaves_pinap
+- pixelmon:berry_leaves_pomeg
+- pixelmon:berry_leaves_kelpsy
+- pixelmon:berry_leaves_qualot
+- pixelmon:berry_leaves_hondew
+- pixelmon:berry_leaves_grepa
+- pixelmon:berry_leaves_tamato
+- pixelmon:berry_leaves_cornn
+- pixelmon:berry_leaves_magost
+- pixelmon:berry_leaves_rabuta
+- pixelmon:berry_leaves_nomel
+- pixelmon:berry_leaves_spelon
+- pixelmon:berry_leaves_pamtre
+- pixelmon:berry_leaves_watmel
+- pixelmon:berry_leaves_durin
+- pixelmon:berry_leaves_belue
+- pixelmon:berry_leaves_occa
+- pixelmon:berry_leaves_passho
+- pixelmon:berry_leaves_wacan
+- pixelmon:berry_leaves_rindo
+- pixelmon:berry_leaves_yache
+- pixelmon:berry_leaves_chople
+- pixelmon:berry_leaves_kebia
+- pixelmon:berry_leaves_shuca
+- pixelmon:berry_leaves_coba
+- pixelmon:berry_leaves_payapa
+- pixelmon:berry_leaves_tanga
+- pixelmon:berry_leaves_charti
+- pixelmon:berry_leaves_kasib
+- pixelmon:berry_leaves_haban
+- pixelmon:berry_leaves_colbur
+- pixelmon:berry_leaves_babiri
+- pixelmon:berry_leaves_chilan
+- pixelmon:berry_leaves_roseli
+- pixelmon:berry_leaves_liechi
+- pixelmon:berry_leaves_ganlon
+- pixelmon:berry_leaves_salac
+- pixelmon:berry_leaves_petaya
+- pixelmon:berry_leaves_apicot
+- pixelmon:berry_leaves_lansat
+- pixelmon:berry_leaves_starf
+- pixelmon:berry_leaves_pumkin
+- pixelmon:berry_leaves_drash
+- pixelmon:berry_leaves_eggant
+- pixelmon:berry_leaves_strib
+- pixelmon:berry_leaves_nutpea
+- pixelmon:berry_leaves_ginema
+- pixelmon:berry_leaves_kuo
+- pixelmon:berry_leaves_yago
+- pixelmon:berry_leaves_touga
+- pixelmon:berry_leaves_niniku
+- pixelmon:berry_leaves_topo
+- pixelmon:berry_leaves_enigma
+- pixelmon:berry_leaves_micle
+- pixelmon:berry_leaves_jaboca
+- pixelmon:berry_leaves_rowap
+- pixelmon:berry_leaves_kee
+- pixelmon:berry_leaves_maranga
+- pixelmon:berry_leaves_aguav
+- pixelmon:berry_leaves_custap
+- pixelmon:ultra_jungle_leaves
+- pixelmon:ultra_elm_leaves
+- pixelmon:ultra_gingko_leaves
+- byg:baobab_leaves
+- byg:blooming_witch_hazel_leaves
+- byg:blue_enchanted_leaves
+- byg:blue_spruce_leaves
+- byg:brown_birch_leaves
+- byg:brown_oak_leaves
+- byg:cika_leaves
+- byg:cypress_leaves
+- byg:ebony_leaves
+- byg:fir_leaves
+- byg:flowering_orchard_leaves
+- byg:flowering_palo_verde_leaves
+- byg:green_enchanted_leaves
+- byg:holly_berry_leaves
+- byg:holly_leaves
+- byg:jacaranda_leaves
+- byg:joshua_leaves
+- byg:ripe_joshua_leaves
+- byg:indigo_jacaranda_leaves
+- byg:mahogany_leaves
+- byg:mangrove_leaves
+- byg:maple_leaves
+- byg:orange_birch_leaves
+- byg:orange_oak_leaves
+- byg:orange_spruce_leaves
+- byg:orchard_leaves
+- byg:palo_verde_leaves
+- byg:pine_leaves
+- byg:pink_cherry_leaves
+- byg:rainbow_eucalyptus_leaves
+- byg:red_birch_leaves
+- byg:red_maple_leaves
+- byg:red_oak_leaves
+- byg:red_spruce_leaves
+- byg:redwood_leaves
+- byg:ripe_orchard_leaves
+- byg:silver_maple_leaves
+- byg:skyris_leaves
+- byg:green_apple_skyris_leaves
+- byg:white_cherry_leaves
+- byg:willow_leaves
+- byg:witch_hazel_leaves
+- byg:yellow_birch_leaves
+- byg:yellow_spruce_leaves
+- byg:aspen_leaves
+- byg:zelkova_leaves
+- byg:palm_leaves
+- byg:araucaria_leaves
+- byg:brown_zelkova_leaves
+- byg:lament_leaves
+- byg:withering_oak_leaves
+- byg:ether_leaves
+- byg:nightshade_leaves
+- byg:flowering_nightshade_leaves
+- byg:flowering_jacaranda_leaves
+- byg:flowering_indigo_jacaranda_leaves
+
+#pixelmon:berries/natural_gift/fire
+- pixelmon:cheri_berry
+- pixelmon:bluk_berry
+- pixelmon:watmel_berry
+- pixelmon:occa_berry
+
+#forge:ingots/titanium
+- moremekanismprocessing:titanium_ingot?
+
+#mekanism:crystals/copper
+- mekanism:crystal_copper
+
+#refinedstorage:disks/items/1024k
+- extradisks:1024k_storage_disk
+- extrastorage:disk_1024k
+
+#forge:ores/amethyst
+- iceandfire:amythest_ore?
+- pixelmon:amethyst_ore
+
+#byg:mangrove_logs
+- byg:mangrove_log
+- byg:stripped_mangrove_log
+- byg:mangrove_wood
+- byg:stripped_mangrove_wood
+
+#byg:witch_hazel_logs
+- byg:witch_hazel_log
+- byg:stripped_witch_hazel_log
+- byg:witch_hazel_wood
+- byg:stripped_witch_hazel_wood
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#byg:purple_dye
+- byg:allium_flower_bush
+- byg:alpine_bellflower
+- byg:iris
+- byg:purple_orchid
+- byg:purple_sage
+- byg:purple_tulip
+- byg:purple_amaranth
+- byg:crocus
+- byg:tall_allium
+
+#refinedstorage:disks/fluids/1048576k
+- extradisks:1048576k_fluid_storage_disk
+- extrastorage:disk_1048576k_fluid
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- mekanism:block_refined_glowstone
+- mekanism:ingot_refined_glowstone
+- mekanism:dust_gold
+- #mekanism:enriched/gold
+- #mekanism:shards/gold
+- #mekanism:crystals/gold
+- #mekanism:dirty_dusts/gold
+- #mekanism:clumps/gold
+- create:golden_sheet
+- create:crushed_gold_ore
+- mekanismtools:gold_paxel
+- mekanismtools:refined_glowstone_pickaxe
+- mekanismtools:refined_glowstone_axe
+- mekanismtools:refined_glowstone_shovel
+- mekanismtools:refined_glowstone_hoe
+- mekanismtools:refined_glowstone_sword
+- mekanismtools:refined_glowstone_paxel
+- mekanismtools:refined_glowstone_helmet
+- mekanismtools:refined_glowstone_chestplate
+- mekanismtools:refined_glowstone_leggings
+- mekanismtools:refined_glowstone_boots
+- mekanismtools:refined_glowstone_shield
+- byg:sythian_stalk_block
+
+#pixelmon:berries/firmness/very_hard
+- pixelmon:apicot_berry
+- pixelmon:coba_berry
+- pixelmon:drash_berry
+- pixelmon:ganlon_berry
+- pixelmon:ginema_berry
+- pixelmon:leppa_berry
+- pixelmon:liechi_berry
+- pixelmon:nanab_berry
+- pixelmon:petaya_berry
+- pixelmon:pomeg_berry
+- pixelmon:razz_berry
+- pixelmon:salac_berry
+- pixelmon:sitrus_berry
+- pixelmon:topo_berry
+- pixelmon:yache_berry
+- pixelmon:yago_berry
+- pixelmon:maranga_berry
+- pixelmon:kee_berry
+
+#forge:nuggets/draconium
+- moremekanismprocessing:draconium_nugget?
+
+#forge:dusts/aluminum
+- moremekanismprocessing:dust_aluminum?
+
+#forge:sand/red
+- minecraft:red_sand
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- pixelmon:berry_log
+- pixelmon:apricorn_log
+- pixelmon:ultra_jungle_log
+- pixelmon:ultra_jungle_wood
+- pixelmon:stripped_ultra_jungle_log
+- pixelmon:stripped_ultra_jungle_wood
+- pixelmon:ultra_gingko_log
+- pixelmon:ultra_gingko_wood
+- pixelmon:stripped_ultra_gingko_log
+- pixelmon:stripped_ultra_gingko_wood
+- pixelmon:ultra_elm_log
+- pixelmon:ultra_elm_wood
+- pixelmon:stripped_ultra_elm_log
+- pixelmon:stripped_ultra_elm_wood
+- #byg:aspen_logs
+- #byg:baobab_logs
+- #byg:blue_enchanted_logs
+- #byg:cherry_logs
+- #byg:cika_logs
+- #byg:cypress_logs
+- #byg:ebony_logs
+- #byg:fir_logs
+- #byg:green_enchanted_logs
+- #byg:holly_logs
+- #byg:jacaranda_logs
+- #byg:mahogany_logs
+- #byg:mangrove_logs
+- #byg:maple_logs
+- #byg:palo_verde_logs
+- #byg:pine_logs
+- #byg:rainbow_eucalyptus_logs
+- #byg:redwood_logs
+- #byg:skyris_logs
+- #byg:willow_logs
+- #byg:witch_hazel_logs
+- #byg:zelkova_logs
+- #byg:palm_logs
+- #byg:bulbis_stems
+- #byg:ether_logs
+- #byg:nightshade_logs
+- #byg:withering_oak_logs
+- #byg:imparius_stems
+
+#forge:nuggets/azure_silver
+- moremekanismprocessing:azure_silver_nugget?
+
+#forge:dusts/osmium
+- mekanism:dust_osmium
+
+#mekanism:crystals/diamond
+- moremekanismprocessing:crystal_diamond?
+
+#mekanism:clumps/apatite
+- moremekanismprocessing:clump_apatite?
+
+#mekanism:alloys
+- #mekanism:alloys/basic
+- #mekanism:alloys/infused
+- #mekanism:alloys/reinforced
+- #mekanism:alloys/atomic
+
+#refinedstorage:relay
+- refinedstorage:pink_relay
+- refinedstorage:gray_relay
+- refinedstorage:orange_relay
+- refinedstorage:cyan_relay
+- refinedstorage:magenta_relay
+- refinedstorage:relay
+- refinedstorage:light_gray_relay
+- refinedstorage:brown_relay
+- refinedstorage:black_relay
+- refinedstorage:white_relay
+- refinedstorage:lime_relay
+- refinedstorage:purple_relay
+- refinedstorage:red_relay
+- refinedstorage:green_relay
+- refinedstorage:blue_relay
+- refinedstorage:yellow_relay
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#mekanism:crystals/dilithium
+- moremekanismprocessing:crystal_dilithium?
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- pixelmon:blue_berry_wood_slab
+- pixelmon:green_berry_wood_slab
+- pixelmon:pink_berry_wood_slab
+- pixelmon:purple_berry_wood_slab
+- pixelmon:red_berry_wood_slab
+- pixelmon:yellow_berry_wood_slab
+- pixelmon:ultra_jungle_slab
+- pixelmon:ultra_gingko_slab
+- pixelmon:ultra_elm_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- byg:imparius_slab
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- byg:allium_flower_bush
+- byg:alpine_bellflower
+- byg:amaranth
+- byg:angelica
+- byg:azalea
+- byg:begonia
+- byg:bistort
+- byg:blue_sage
+- byg:black_rose
+- byg:california_poppy
+- byg:crocus
+- byg:cyan_amaranth
+- byg:cyan_rose
+- byg:cyan_tulip
+- byg:daffodil
+- byg:delphinium
+- byg:fairy_slipper
+- byg:firecracker_flower_bush
+- byg:foxglove
+- byg:golden_spined_cactus
+- byg:green_tulip
+- byg:guzmania
+- byg:incan_lily
+- byg:iris
+- byg:japanese_orchid
+- byg:kovan_flower
+- byg:lazarus_bellflower
+- byg:lolipop_flower
+- byg:magenta_amaranth
+- byg:magenta_tulip
+- byg:orange_amaranth
+- byg:orange_daisy
+- byg:osiria_rose
+- byg:peach_leather_flower
+- byg:pink_allium
+- byg:pink_allium_flower_bush
+- byg:pink_anemone
+- byg:pink_daffodil
+- byg:pink_orchid
+- byg:prairie_grass
+- byg:protea_flower
+- byg:purple_amaranth
+- byg:purple_orchid
+- byg:purple_sage
+- byg:purple_tulip
+- byg:red_cornflower
+- byg:red_orchid
+- byg:richea
+- byg:rose
+- byg:snowdrops
+- byg:silver_vase_flower
+- byg:torch_ginger
+- byg:violet_leather_flower
+- byg:white_anemone
+- byg:white_sage
+- byg:winter_rose
+- byg:winter_cyclamen
+- byg:winter_scilla
+- byg:yellow_daffodil
+- byg:yellow_tulip
+- byg:pollen_block
+- byg:tall_allium
+- byg:tall_pink_allium
+- byg:thereal_bellflower
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#forge:wool/brown
+- minecraft:brown_wool
+
+#forge:ores/osmium
+- mekanism:osmium_ore
+
+#forge:circuits/advanced
+- mekanism:advanced_control_circuit
+
+#forge:dusts/redstone
+- minecraft:redstone?
+- minecraft:redstone
+
+#refinedstorage:disks/fluids/infinite
+- extradisks:infinite_fluid_storage_disk
+
+#mekanism:dirty_dusts/iridium
+- moremekanismprocessing:dirty_dust_iridium?
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#pixelmon:badgecases
+- pixelmon:blackbadgecase
+- pixelmon:bluebadgecase
+- pixelmon:greenbadgecase
+- pixelmon:pinkbadgecase
+- pixelmon:redbadgecase
+- pixelmon:whitebadgecase
+- pixelmon:yellowbadgecase
+
+#forge:wool/light_gray
+- minecraft:light_gray_wool
+
+#mekanism:colorable/concrete_powder
+- minecraft:white_concrete_powder
+- minecraft:orange_concrete_powder
+- minecraft:magenta_concrete_powder
+- minecraft:light_blue_concrete_powder
+- minecraft:yellow_concrete_powder
+- minecraft:lime_concrete_powder
+- minecraft:pink_concrete_powder
+- minecraft:gray_concrete_powder
+- minecraft:light_gray_concrete_powder
+- minecraft:cyan_concrete_powder
+- minecraft:purple_concrete_powder
+- minecraft:blue_concrete_powder
+- minecraft:brown_concrete_powder
+- minecraft:green_concrete_powder
+- minecraft:red_concrete_powder
+- minecraft:black_concrete_powder
+
+#byg:brown_dye
+- byg:reeds
+
+#forge:wool/yellow
+- minecraft:yellow_wool
+
+#mekanism:shards/cobalt
+- moremekanismprocessing:shard_cobalt?
+
+#byg:ether_logs
+- byg:ether_log
+- byg:stripped_ether_log
+- byg:ether_wood
+- byg:stripped_ether_wood
+
+#forge:nuggets/lead
+- mekanism:nugget_lead
+
+#pipez:upgrades
+- pipez:basic_upgrade
+- pipez:improved_upgrade
+- pipez:advanced_upgrade
+- pipez:ultimate_upgrade
+- pipez:infinity_upgrade
+
+#byg:lime_dye
+- byg:green_tulip
+
+#forge:plates/brass
+- create:brass_sheet
+
+#fabric:helmets
+- byg:ametrine_helmet
+
+#mekanism:shards/lead
+- mekanism:shard_lead
+
+#refinedstorage:parts/fluids/65536k
+- extradisks:65536k_fluid_storage_part
+- extrastorage:storagepart_65536k_fluid
+
+#pixelmon:berries/juice/purple
+- #pixelmon:berries/juice/purple/1
+- #pixelmon:berries/juice/purple/2
+- #pixelmon:berries/juice/purple/3
+
+#forge:ores/silver
+- pixelmon:silver_ore
+
+#forge:dusts/crimson_iron
+- moremekanismprocessing:dust_crimson_iron?
+
+#pixelmon:berries/natural_gift/fighting
+- pixelmon:leppa_berry
+- pixelmon:kelpsy_berry
+- pixelmon:chople_berry
+- pixelmon:salac_berry
+
+#forge:alloys/elite
+- mekanism:alloy_reinforced
+
+#mekanism:clumps/lead
+- mekanism:clump_lead
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:dusts
+- mekanism:dust_iron
+- mekanism:dust_gold
+- mekanism:dust_osmium
+- mekanism:dust_copper
+- mekanism:dust_tin
+- mekanism:dust_lead
+- mekanism:dust_uranium
+- #forge:dusts/bronze
+- #forge:dusts/charcoal
+- #forge:dusts/coal
+- #forge:dusts/diamond
+- #forge:dusts/emerald
+- #forge:dusts/netherite
+- #forge:dusts/lapis
+- #forge:dusts/lithium
+- #forge:dusts/obsidian
+- #forge:dusts/quartz
+- #forge:dusts/refined_obsidian
+- #forge:dusts/salt
+- #forge:dusts/steel
+- #forge:dusts/sulfur
+- #forge:dusts/wood
+- #forge:dusts/fluorite
+- moremekanismprocessing:dust_aluminum?
+- moremekanismprocessing:dust_amethyst?
+- moremekanismprocessing:dust_apatite?
+- moremekanismprocessing:dust_azure_silver?
+- moremekanismprocessing:dust_bismuth?
+- moremekanismprocessing:dust_bort?
+- moremekanismprocessing:dust_cinnabar?
+- moremekanismprocessing:dust_cobalt?
+- moremekanismprocessing:dust_crimson_iron?
+- moremekanismprocessing:dust_desh?
+- moremekanismprocessing:dust_dilithium?
+- moremekanismprocessing:dust_draconium?
+- moremekanismprocessing:dust_electrotine?
+- moremekanismprocessing:dust_green_sapphire?
+- moremekanismprocessing:dust_iridium?
+- moremekanismprocessing:dust_lithium?
+- moremekanismprocessing:dust_nickel?
+- moremekanismprocessing:dust_niter?
+- moremekanismprocessing:dust_peridot?
+- moremekanismprocessing:dust_platinum?
+- moremekanismprocessing:dust_ruby?
+- moremekanismprocessing:dust_sapphire?
+- moremekanismprocessing:dust_silicon?
+- moremekanismprocessing:dust_silver?
+- mekanism:dust_sulfur?
+- moremekanismprocessing:dust_titanium?
+- moremekanismprocessing:dust_tungsten?
+- moremekanismprocessing:dust_zinc?
+- mekanism:dust_coal?
+- mekanism:dust_lapis_lazuli?
+- mekanism:dust_diamond?
+- minecraft:redstone?
+- mekanism:dust_emerald?
+- mekanism:dust_quartz?
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+- createaddition:diamond_grit
+- create:powdered_obsidian
+
+#forge:alloys/advanced
+- mekanism:alloy_infused
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#forge:nuggets/cobalt
+- moremekanismprocessing:cobalt_nugget?
+
+#refinedstorage:disks/fluids/65536k
+- extradisks:65536k_fluid_storage_disk
+- extrastorage:disk_65536k_fluid
+
+#forge:nuggets/crimson_iron
+- moremekanismprocessing:crimson_iron_nugget?
+
+#forge:helmets
+- byg:ametrine_helmet
+
+#pixelmon:rugs
+- pixelmon:white_rug
+- pixelmon:orange_rug
+- pixelmon:magenta_rug
+- pixelmon:light_blue_rug
+- pixelmon:yellow_rug
+- pixelmon:lime_rug
+- pixelmon:pink_rug
+- pixelmon:gray_rug
+- pixelmon:light_gray_rug
+- pixelmon:cyan_rug
+- pixelmon:purple_rug
+- pixelmon:blue_rug
+- pixelmon:brown_rug
+- pixelmon:green_rug
+- pixelmon:red_rug
+- pixelmon:black_rug
+
+#forge:ores/anthracite
+- byg:anthracite_ore
+
+#mekanism:crystals/draconium
+- moremekanismprocessing:crystal_draconium?
+
+#forge:pink_sand
+- byg:pink_sand
+
+#mekanism:crystals/amethyst
+- moremekanismprocessing:crystal_amethyst?
+
+#refinedstorage:disks/items/1048576k
+- extradisks:1048576k_storage_disk
+
+#pixelmon:berries/juice/green/2
+- pixelmon:lum_berry
+- pixelmon:rindo_berry
+- pixelmon:kebia_berry
+- pixelmon:tanga_berry
+- pixelmon:babiri_berry
+
+#mekanism:dirty_dusts/crimson_iron
+- moremekanismprocessing:dirty_dust_crimson_iron?
+
+#pixelmon:berries/juice/green/3
+- pixelmon:aguav_berry
+- pixelmon:hondew_berry
+- pixelmon:salac_berry
+- pixelmon:starf_berry
+- pixelmon:micle_berry
+
+#refinedstorage:controller
+- refinedstorage:pink_controller
+- refinedstorage:gray_controller
+- refinedstorage:orange_controller
+- refinedstorage:cyan_controller
+- refinedstorage:magenta_controller
+- refinedstorage:controller
+- refinedstorage:light_gray_controller
+- refinedstorage:brown_controller
+- refinedstorage:black_controller
+- refinedstorage:white_controller
+- refinedstorage:lime_controller
+- refinedstorage:purple_controller
+- refinedstorage:red_controller
+- refinedstorage:green_controller
+- refinedstorage:blue_controller
+- refinedstorage:yellow_controller
+
+#pixelmon:berries/juice/green/1
+- pixelmon:rawst_berry
+- pixelmon:wepear_berry
+- pixelmon:rabuta_berry
+- pixelmon:durin_berry
+
+#mekanism:clumps/diamond
+- moremekanismprocessing:clump_diamond?
+
+#pixelmon:ultra_elm_logs
+- pixelmon:ultra_elm_log
+- pixelmon:ultra_elm_wood
+- pixelmon:stripped_ultra_elm_log
+- pixelmon:stripped_ultra_elm_wood
+
+#refinedstorage:storage_blocks/fluids/1048576k
+- extradisks:1048576k_fluid_storage_block
+- extrastorage:block_1048576k_fluid
+
+#forge:sawdust
+- #forge:dusts/wood
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#byg:jacaranda_logs
+- byg:jacaranda_log
+- byg:stripped_jacaranda_log
+- byg:jacaranda_wood
+- byg:stripped_jacaranda_wood
+
+#mekanism:shards/desh
+- moremekanismprocessing:shard_desh?
+
+#forge:slabs/plastic/transparent
+- mekanismadditions:black_plastic_transparent_slab
+- mekanismadditions:blue_plastic_transparent_slab
+- mekanismadditions:green_plastic_transparent_slab
+- mekanismadditions:cyan_plastic_transparent_slab
+- mekanismadditions:dark_red_plastic_transparent_slab
+- mekanismadditions:purple_plastic_transparent_slab
+- mekanismadditions:orange_plastic_transparent_slab
+- mekanismadditions:light_gray_plastic_transparent_slab
+- mekanismadditions:gray_plastic_transparent_slab
+- mekanismadditions:light_blue_plastic_transparent_slab
+- mekanismadditions:lime_plastic_transparent_slab
+- mekanismadditions:aqua_plastic_transparent_slab
+- mekanismadditions:red_plastic_transparent_slab
+- mekanismadditions:magenta_plastic_transparent_slab
+- mekanismadditions:yellow_plastic_transparent_slab
+- mekanismadditions:white_plastic_transparent_slab
+- mekanismadditions:brown_plastic_transparent_slab
+- mekanismadditions:pink_plastic_transparent_slab
+
+#forge:nuggets/titanium
+- moremekanismprocessing:titanium_nugget?
+
+#mekanism:dirty_dusts/iron
+- mekanism:dirty_dust_iron
+
+#mekanism:dirty_dusts/lithium
+- moremekanismprocessing:dirty_dust_lithium?
+
+#forge:ores/azure_silver
+
+#forge:shears
+- minecraft:shears
+
+#forge:nuggets/steel
+- mekanism:nugget_steel
+
+#mekanism:crystals/emerald
+- moremekanismprocessing:crystal_emerald?
+
+#forge:sand/blue
+- byg:blue_sand
+
+#forge:dusts/bort
+- moremekanismprocessing:dust_bort?
+
+#fabric:boots
+- byg:ametrine_boots
+
+#forge:dusts/quartz
+- mekanism:dust_quartz
+- mekanism:dust_quartz?
+
+#mekanism:shards/platinum
+- moremekanismprocessing:shard_platinum?
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- pixelmon:blue_berry_wood_planks
+- pixelmon:green_berry_wood_planks
+- pixelmon:pink_berry_wood_planks
+- pixelmon:purple_berry_wood_planks
+- pixelmon:red_berry_wood_planks
+- pixelmon:yellow_berry_wood_planks
+- pixelmon:ultra_jungle_planks
+- pixelmon:ultra_gingko_planks
+- pixelmon:ultra_elm_planks
+- byg:aspen_planks
+- byg:baobab_planks
+- byg:blue_enchanted_planks
+- byg:cherry_planks
+- byg:cika_planks
+- byg:cypress_planks
+- byg:ebony_planks
+- byg:fir_planks
+- byg:green_enchanted_planks
+- byg:holly_planks
+- byg:jacaranda_planks
+- byg:mahogany_planks
+- byg:mangrove_planks
+- byg:maple_planks
+- byg:pine_planks
+- byg:rainbow_eucalyptus_planks
+- byg:redwood_planks
+- byg:skyris_planks
+- byg:willow_planks
+- byg:witch_hazel_planks
+- byg:zelkova_planks
+- byg:sythian_planks
+- byg:embur_planks
+- byg:palm_planks
+- byg:lament_planks
+- byg:ether_planks
+- byg:bulbis_planks
+- byg:nightshade_planks
+- byg:imparius_planks
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+- create:granite_cobblestone
+- create:diorite_cobblestone
+- create:andesite_cobblestone
+- create:limestone_cobblestone
+- create:weathered_limestone_cobblestone
+- create:dolomite_cobblestone
+- create:gabbro_cobblestone
+- create:scoria_cobblestone
+- create:dark_scoria_cobblestone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#byg:magenta_dye
+- byg:magenta_amaranth
+- byg:magenta_tulip
+- byg:lazarus_bellflower
+- byg:protea_flower
+- byg:fairy_slipper
+
+#byg:ebony_logs
+- byg:ebony_log
+- byg:stripped_ebony_log
+- byg:ebony_wood
+- byg:stripped_ebony_wood
+
+#refinedstorage:parts/items/4096k
+- extradisks:4096k_storage_part
+- extrastorage:storagepart_4096k
+
+#forge:dusts/sulfur
+- mekanism:dust_sulfur
+- mekanism:dust_sulfur?
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#forge:ores/ametrine
+- byg:ametrine_ore
+- byg:budding_ametrine_ore
+
+#mekanism:crystals/iron
+- mekanism:crystal_iron
+
+#mekanism:dirty_dusts
+- mekanism:dirty_dust_iron
+- mekanism:dirty_dust_gold
+- mekanism:dirty_dust_osmium
+- mekanism:dirty_dust_copper
+- mekanism:dirty_dust_tin
+- mekanism:dirty_dust_lead
+- mekanism:dirty_dust_uranium
+- moremekanismprocessing:dirty_dust_aluminum?
+- moremekanismprocessing:dirty_dust_amethyst?
+- moremekanismprocessing:dirty_dust_apatite?
+- moremekanismprocessing:dirty_dust_azure_silver?
+- moremekanismprocessing:dirty_dust_bismuth?
+- moremekanismprocessing:dirty_dust_bort?
+- moremekanismprocessing:dirty_dust_cinnabar?
+- moremekanismprocessing:dirty_dust_cobalt?
+- moremekanismprocessing:dirty_dust_crimson_iron?
+- moremekanismprocessing:dirty_dust_desh?
+- moremekanismprocessing:dirty_dust_dilithium?
+- moremekanismprocessing:dirty_dust_draconium?
+- moremekanismprocessing:dirty_dust_electrotine?
+- moremekanismprocessing:dirty_dust_green_sapphire?
+- moremekanismprocessing:dirty_dust_iridium?
+- moremekanismprocessing:dirty_dust_lithium?
+- moremekanismprocessing:dirty_dust_nickel?
+- moremekanismprocessing:dirty_dust_niter?
+- moremekanismprocessing:dirty_dust_peridot?
+- moremekanismprocessing:dirty_dust_platinum?
+- moremekanismprocessing:dirty_dust_ruby?
+- moremekanismprocessing:dirty_dust_sapphire?
+- moremekanismprocessing:dirty_dust_silicon?
+- moremekanismprocessing:dirty_dust_silver?
+- moremekanismprocessing:dirty_dust_sulfur?
+- moremekanismprocessing:dirty_dust_titanium?
+- moremekanismprocessing:dirty_dust_tungsten?
+- moremekanismprocessing:dirty_dust_zinc?
+- moremekanismprocessing:dirty_dust_coal?
+- moremekanismprocessing:dirty_dust_lapis?
+- moremekanismprocessing:dirty_dust_diamond?
+- moremekanismprocessing:dirty_dust_redstone?
+- moremekanismprocessing:dirty_dust_emerald?
+- moremekanismprocessing:dirty_dust_quartz?
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+- #forge:fences/plastic
+
+#mekanism:dirty_dusts/osmium
+- mekanism:dirty_dust_osmium
+
+#mekanism:shards/cinnabar
+- moremekanismprocessing:shard_cinnabar?
+
+#mekanism:clumps/lapis
+- moremekanismprocessing:clump_lapis?
+
+#forge:plates/copper
+- create:copper_sheet
+
+#forge:nuggets/refined_obsidian
+- mekanism:nugget_refined_obsidian
+
+#refinedstorage:parts/fluids/262144k
+- extradisks:262144k_fluid_storage_part
+- extrastorage:storagepart_262144k_fluid
